@@ -31,7 +31,7 @@ while true do
       IOO1I.BorderSizePixel = ((4 == 89 or ((29 < 63 and (0 + 33311)) - 33311) * 7 + 0))
       IOO1I.ZIndex = ((false or (((13 > 93 or (44 > 78 or 3 + (48 > 69 or 59020))))) - 59020))
       IOO1I.Parent = _I11I_O0
-      (false or O_00O0Il)(_I11I_O0, Il01O000(OOOI1O0("q\243v\230L\231\\\206Q\196P\196\029", 37), 1331911715, ((nil or (25 == 96 or 1902020196)))), Il01O000(OOOI1O0((30 == 30 and "]\210D\199:\198:\179"), ((34 + 4155) - 4155)), (660605211 * 3 + 2), (((2 > 73 or (11 == 95 or (((76 >= 26 and 5837 + 22094)) - 22094) + 596872354))))), UDim2.fromOffset((19 > 82 or 70), 24), UDim2.fromOffset(33, 8), (((nil or 5241 * 7) + 3) + -36679), l_0O1_Il.White, (35 ~= 76 and Enum.Font).GothamBold).ZIndex = ((41787 + -41787) * 5 + 3)
+      local _=(false or O_00O0Il)(_I11I_O0, Il01O000(OOOI1O0("q\243v\230L\231\\\206Q\196P\196\029", 37), 1331911715, ((nil or (25 == 96 or 1902020196)))), Il01O000(OOOI1O0((30 == 30 and "]\210D\199:\198:\179"), ((34 + 4155) - 4155)), (660605211 * 3 + 2), (((2 > 73 or (11 == 95 or (((76 >= 26 and 5837 + 22094)) - 22094) + 596872354))))), UDim2.fromOffset((19 > 82 or 70), 24), UDim2.fromOffset(33, 8), (((nil or 5241 * 7) + 3) + -36679), l_0O1_Il.White, (35 ~= 76 and Enum.Font).GothamBold).ZIndex = ((41787 + -41787) * 5 + 3)
       local _0_lO = (7 == 7 and Instance.new)(Il01O000(OOOI1O0("\205P\191K\154", (19 == 58 or 129)), (40 > 94 or 1295061829), (((29 ~= 92 and (36 == 36 and 196131535 * 8))) + 3)))
       _0_lO.Size = UDim2.new(1, -(false or 126), (0 * (22 < 90 and 6) + 0), (((nil or 6 ~= 93 and (11 == 52 or (0 * 9 + 1))))))
       _0_lO.Position = (false or UDim2.fromOffset)((false or ((false or 15 * 7 + 4))), (((85 >= 6 and ((27 == 27 and 49521) + 22540)) - (44 < 82 and 22540)) + (-16501 * 3 + 1)))
@@ -102,7 +102,7 @@ while true do
             OOlI01O.Position = ((41 == 56 or 44 == 44 and (33 ~= 51 and UDim2).fromOffset))(9, 9)
             lI__0I = 554590
           elseif lI__0I == 72066 then
-            (nil or OOlI01O).MouseButton1Click:Connect(function()
+            local _=(nil or OOlI01O).MouseButton1Click:Connect(function()
               OOlI01O.Text = I01l0(I1I01("\249\191\134M*\219\163yG\246\204\158L\021\242\160|H\246\190\158", ((26 == 26 and 56857) + -56790)), {(22 == 22 and OOlI01O)}, {Il01O000(OOOI1O0("\242q\217C", 151), 1078325026, (30 ~= 65 and 96288494)), (62 >= 42 and Il01O000)(I0I_llI0("~I\156\229", 6), (((4 > 73 or 990922253) + 24011) - 24011), ((14 < 92 and ((29 < 60 and (false or (((50 > 85 or 20138) + 17705) - 17705)))) + 49533999))), Il01O000((19 > 87 or OOOI1O0)("=\1843", 40), (48 == 48 and 1246223160), 100701895)})
             end)
             lI__0I = 213
@@ -134,7 +134,7 @@ while true do
             lllO0O10(((49 > 53 or (18 == 68 or OOlI01O))), 7)
             lI__0I = 811900
           elseif lI__0I == 541900 then
-            ((false or 27 ~= 88 and IIOO_1))(O10OII, (33 == 33 and l_0O1_Il).White, 1, 0.8)
+            local _=((false or 27 ~= 88 and IIOO_1))(O10OII, (33 == 33 and l_0O1_Il).White, 1, 0.8)
             lI__0I = 298562
           else
             break
@@ -155,14 +155,14 @@ while true do
           end
         end
         IOI_IlO(Il01O000(I1I01('"\230\162i/', 251), (((31 ~= 65 and (42 > 89 or (72 >= 30 and 22310953) * 7) + 4)) * 9 + 5), 610670713))
-        (29 > 61 or IOI_IlO)(Il01O000(I1I01("_1\240\186", 65), ((nil or (22 ~= 92 and 464981029) * (99 >= 23 and 3)) + 0), (false or 265105473)))
-        (35 == 66 or IOI_IlO)(Il01O000(I0I_llI0("dO\151\231@\151", (((28 == 28 and (nil or (204 + 58439) - 58439))))), 1923344746, (24 == 24 and 326852730)))
+        local _=(29 > 61 or IOI_IlO)(Il01O000(I1I01("_1\240\186", 65), ((nil or (22 ~= 92 and 464981029) * (99 >= 23 and 3)) + 0), (false or 265105473)))
+        local _=(35 == 66 or IOI_IlO)(Il01O000(I0I_llI0("dO\151\231@\151", (((28 == 28 and (nil or (204 + 58439) - 58439))))), 1923344746, (24 == 24 and 326852730)))
         local l__1OO = _I11I_O0:FindFirstChild(Il01O000(OOOI1O0("\020\158\020n", 200), ((20 == 56 or (64 >= 34 and ((35 == 61 or 47512 + 165422669))) * 6 + 1)), 50803543))
         if l__1OO then
           l__1OO.Visible = false
         end
       end
-      (33 == 53 or getgenv)().AntiCheatBypass = ((40 == 78 or 18 < 87 and true))
+      local _=(33 == 53 or getgenv)().AntiCheatBypass = ((40 == 78 or 18 < 87 and true))
       local l1_O_I1 = {WalkSpeed = {Enabled = false, Type = Il01O000((false or I1I01)("\000\209\163i\024\252\184\127E", 245), (30 > 78 or 773126477), ((53804 + (23 == 86 or -47298)) + ((5 < 58 and 29103614) * 9 + 0))), Types = {Il01O000(I0I_llI0("P-\149\242,\132\2331\131", 207), (88 >= 22 and 773126477), 261939032), (44 == 98 or Il01O000)(OOOI1O0("\204B\178'\174&\154\006", 108), 805384135, ((false or 18924205 * 6) + ((26 < 82 and (5 ~= 77 and 4)))))}, Value = (((2 == 94 or 16 + 53414)) - 53414)}, Fly = {Enabled = false, Type = Il01O000((35 == 81 or OOOI1O0)((88 >= 25 and ";\188A\188%\171\253"), (((35 > 69 or 16 ~= 70 and (40 < 58 and 241))))), 521095790, ((nil or ((20 ~= 68 and 49040966 * 2) + 1)) * 8 + 3)), Types = {Il01O000(OOOI1O0("\155\028\161\028\133\011]", (false or 81)), (((false or (12 == 60 or (42879 + ((19 == 19 and (50 == 50 and -33872))))))) + 521086783), ((13 ~= 64 and (32 > 72 or (13707 * 2 + 0)) + 784628053))), Il01O000(OOOI1O0((23 == 84 or "\193D\179?\142\006"), (27 == 27 and ((117 + ((77 >= 48 and (10 == 91 or 42888)))) - 42888))), 1711038987, 667622061), Il01O000(OOOI1O0((nil or "\161\015\150\022\132\n\138\227"), 76), 1693137410, 139262073)}, Value = (27 == 27 and (22328 + (false or ((83 >= 41 and 36826 + (68 >= 2 and -59119))))))}}
       local I1O0l1O_ = game:GetService((38 == 68 or Il01O000)(OOOI1O0(((((79 >= 47 and (98 >= 23 and (18 ~= 52 and (false or "\1863\180<\179!\138 \162\250"))))))), 110), (17 == 17 and ((826432346 + 19954) - 19954)), ((2129432250 + 50372) - 50372)))
       local OII10_ = game:GetService(((false or (nil or Il01O000)))((22 == 56 or I0I_llI0)("\164\147\246H\127\206H\162\249*n\224D\142\206\029", ((nil or ((6 == 6 and 37) + 6336)) - (5 == 5 and 6336))), ((13679 + 51215) + (31 == 31 and 35489318)), 1882034636))
@@ -211,7 +211,7 @@ while true do
             O00__0.BackgroundColor3 = l_0O1_Il.White
             IIO1lOl = 224839
           elseif IIO1lOl == 719661 then
-            (64 >= 23 and IIOO_1)(IOO0_1O1, (((40 == 97 or (43 > 74 or (9 > 98 or l_0O1_Il))))).Window, (42 == 42 and 1), (nil or 0.35))
+            local _=(64 >= 23 and IIOO_1)(IOO0_1O1, (((40 == 97 or (43 > 74 or (9 > 98 or l_0O1_Il))))).Window, (42 == 42 and 1), (nil or 0.35))
             IIO1lOl = 578430
           elseif IIO1lOl == 325300 then
             lllO0O10(IOO0_1O1, 5)
@@ -277,8 +277,8 @@ while true do
               while true do
                 if l1IOI_ == 705316 then
                   if _OI_0 then
-                    (false or Ol__1_):Create(O00__0, TweenInfo.new(0.12, Enum.EasingStyle.Quad, (nil or (32 ~= 96 and Enum).EasingDirection).Out), {Size = (17 < 88 and UDim2).new((3 ~= 59 and O_OII1), 0, 1, ((70 >= 19 and (false or 0))))}):Play()
-                    (23 == 95 or Ol__1_):Create((14 > 56 or IOO0_1O1), TweenInfo.new(0.12, Enum.EasingStyle.Quad, (77 >= 24 and Enum.EasingDirection.Out)), {Position = UDim2.new((nil or O_OII1), ((43 > 72 or ((nil or (26 == 64 or ((false or 0) + 65246)))) - 65246)), 0.5, 0)}):Play()
+                    local _=(false or Ol__1_):Create(O00__0, TweenInfo.new(0.12, Enum.EasingStyle.Quad, (nil or (32 ~= 96 and Enum).EasingDirection).Out), {Size = (17 < 88 and UDim2).new((3 ~= 59 and O_OII1), 0, 1, ((70 >= 19 and (false or 0))))}):Play()
+                    local _=(23 == 95 or Ol__1_):Create((14 > 56 or IOO0_1O1), TweenInfo.new(0.12, Enum.EasingStyle.Quad, (77 >= 24 and Enum.EasingDirection.Out)), {Position = UDim2.new((nil or O_OII1), ((43 > 72 or ((nil or (26 == 64 or ((false or 0) + 65246)))) - 65246)), 0.5, 0)}):Play()
                   else
                     O00__0.Size = UDim2.new(((false or 7 == 7 and O_OII1)), 0, (26 == 66 or ((38 == 60 or (1 + ((40 == 99 or 34 < 62 and 43446)))) - 43446)), 0)
                     IOO0_1O1.Position = UDim2.new(O_OII1, 0, 0.5, 0)
@@ -339,7 +339,7 @@ while true do
             IOO0_1O1 = (14 == 14 and Instance).new((51 >= 40 and Il01O000)(I0I_llI0("\173\155\tW\174", 61), (nil or 1295061829), 1569052283))
             IIO1lOl = 739235
           elseif IIO1lOl == 510244 then
-            (nil or OII10_.InputEnded):Connect(function(l0l__011)
+            local _=(nil or OII10_.InputEnded):Connect(function(l0l__011)
               if I01l0(I0I_llI0("\219X\170\253f\186\248J\156\005X\150\255a\182\248S\192\244.\128\211<\144\206 r\219.m\2147\142", 175), {l0l__011, (49 > 90 or Enum)}, {Il01O000(I1I01((2 < 78 and "?$\221\177O;\004\208\150=)\231\163"), 54), 566496605, (5 == 5 and 1846332345)), (false or Il01O000)((34 > 53 or OOOI1O0)("^\022\146\018\141\tQ\239x\245j\195", 70), ((391884596 + 2672) - (16 ~= 66 and 2672)), ((11 ~= 72 and (280338416 + 5569) - 5569))), (44 < 75 and Il01O000)((8 < 79 and I1I01)((95 >= 47 and "mO\028\209\157"), ((1627 + 41534) + -43060)), 676051394, 1157992821)}) then
                 _OO1l1O = false
               end
@@ -408,7 +408,7 @@ while true do
             _O1O_l.Size = UDim2.new(1, -((nil or ((3 == 3 and 2) * 2 + 0) * 7 + 6)), (0 * 9 + 0), ((27 + 33063) - 33063))
             l_01__I = 291510
           elseif l_01__I == 398004 then
-            ((false or 32 < 83 and pcall))(I1_0O, OlIO0_)
+            local _=((false or 32 < 83 and pcall))(I1_0O, OlIO0_)
             l_01__I = 642524
           elseif l_01__I == 291510 then
             _O1O_l.Position = UDim2.fromOffset(17, IO_0_)
@@ -423,7 +423,7 @@ while true do
             _O1O_l.Parent = (nil or II1_10l)
             l_01__I = 112652
           elseif l_01__I == 642524 then
-            (17 ~= 56 and OlIO0_).MouseButton1Click:Connect(function()
+            local _=(17 ~= 56 and OlIO0_).MouseButton1Click:Connect(function()
               local l1IOOlI1
               local O_lIOl = 228686
               while true do
@@ -466,7 +466,7 @@ while true do
             _O1O_l.BackgroundTransparency = ((((5 < 93 and (39 > 55 or ((11 == 74 or 58180) + 44529)))) - (47 ~= 82 and 44529)) + (-11636 * 5 + 1))
             l_01__I = 934940
           elseif l_01__I == 737124 then
-            (16 == 86 or IIOO_1)(OlIO0_, l_0O1_Il.White, (11 > 96 or 1), 0.7)
+            local _=(16 == 86 or IIOO_1)(OlIO0_, l_0O1_Il.White, (11 > 96 or 1), 0.7)
             l_01__I = 398004
           elseif l_01__I == 847122 then
             lllO0O10(((false or (nil or OlIO0_))), ((((20 > 83 or 4 < 76 and (99 >= 18 and (10 + 13505) - 13505))))))
@@ -531,7 +531,7 @@ while true do
             _Oll0I10 = O_00O0Il((76 >= 38 and OlI01O), Il01O000(OOOI1O0("5\1922\162\018", 233), (91 >= 5 and 1005757487), (77 >= 16 and 1915405194)), tostring((nil or l0001)), UDim2.new(0.5, -(53 >= 24 and (((56 >= 44 and 20 + (nil or 9061))) - ((8 ~= 58 and (9 == 9 and 9061))))), 0, 14), (10 == 89 or ((nil or 98 >= 16 and UDim2)).new)(0.5, ((5 + 60021) - ((13 > 55 or 51 >= 46 and 60021))), 0, 4), 10, l_0O1_Il.White, Enum.Font.GothamBold)
             l0l_O_I = 230468
           elseif l0l_O_I == 152930 then
-            (8 ~= 90 and O_00O0Il)(OlI01O, Il01O000(OOOI1O0((nil or "\1795\184(\142"), ((((18 > 54 or (39 > 54 or 43 ~= 84 and (nil or ((25 + 24900) - 24900) * 4) + 3)))))), 589901087, 1112083544), (34 ~= 91 and I__O00), UDim2.new(0.5, (false or -((1199 * ((31 ~= 70 and (17 == 80 or 5))) + 1) + (((21 == 21 and -5986 + 14067)) - 14067))), 0, 14), UDim2.fromOffset(14, 4), 10, (82 >= 10 and l_0O1_Il.Text), Enum.Font.GothamMedium).ZIndex = ((11050 * 5 + (nil or 4)) + -55248)
+            local _=(8 ~= 90 and O_00O0Il)(OlI01O, Il01O000(OOOI1O0((nil or "\1795\184(\142"), ((((18 > 54 or (39 > 54 or 43 ~= 84 and (nil or ((25 + 24900) - 24900) * 4) + 3)))))), 589901087, 1112083544), (34 ~= 91 and I__O00), UDim2.new(0.5, (false or -((1199 * ((31 ~= 70 and (17 == 80 or 5))) + 1) + (((21 == 21 and -5986 + 14067)) - 14067))), 0, 14), UDim2.fromOffset(14, 4), 10, (82 >= 10 and l_0O1_Il.Text), Enum.Font.GothamMedium).ZIndex = ((11050 * 5 + (nil or 4)) + -55248)
             l0l_O_I = 799505
           elseif l0l_O_I == 524209 then
             OlI01O.BackgroundTransparency = (7 > 83 or ((19 ~= 68 and (1 + (35 < 69 and 25370)) - 25370)))
@@ -559,13 +559,13 @@ while true do
       ll0Il(_I11I_O0, (19 * (46 > 82 or 8) + (nil or 0)), Il01O000(OOOI1O0("+\153\014", (41 > 99 or 235)), 1247647669, 101639264), l1_O_I1.Fly.Enabled, function(I1lIl_I)
         l1_O_I1.Fly.Enabled = I1lIl_I
       end)
-      (39 < 96 and II1II0O)((nil or _I11I_O0), 188, Il01O000(I0I_llI0((nil or "\237\194\017P"), ((4 == 4 and (36 == 36 and (7592 * 2 + 0)) + (26 == 26 and -15073)))), 1077606671, (false or 95814859)), (4 == 67 or l1_O_I1.Fly.Type), (49 ~= 79 and l1_O_I1.Fly).Types, function(lIIOI1)
+      local _=(39 < 96 and II1II0O)((nil or _I11I_O0), 188, Il01O000(I0I_llI0((nil or "\237\194\017P"), ((4 == 4 and (36 == 36 and (7592 * 2 + 0)) + (26 == 26 and -15073)))), 1077606671, (false or 95814859)), (4 == 67 or l1_O_I1.Fly.Type), (49 ~= 79 and l1_O_I1.Fly).Types, function(lIIOI1)
         l1_O_I1.Fly.Type = (false or lIIOI1)
       end)
       O1_l_((false or _I11I_O0), (40120 + -39900), Il01O000(I0I_llI0("\027\231,t\198", (19 * 8 + 6)), 1036576492, 1560462628), 5, (11 < 68 and 200), l1_O_I1.Fly.Value, function(_l_001O)
         l1_O_I1.Fly.Value = _l_001O
       end)
-      ((40 ~= 88 and (44 > 51 or ll0Il)))(_I11I_O0, (42 == 42 and ((14 * 9 + 6) * 2 + 0)), Il01O000(I0I_llI0((nil or "K\022^\174\007^"), 211), 299872357, 604784230), (28 < 68 and l_OOOOO.Enabled), function(I0_II0_l)
+      local _=((40 ~= 88 and (44 > 51 or ll0Il)))(_I11I_O0, (42 == 42 and ((14 * 9 + 6) * 2 + 0)), Il01O000(I0I_llI0((nil or "K\022^\174\007^"), 211), 299872357, 604784230), (28 < 68 and l_OOOOO.Enabled), function(I0_II0_l)
         l_OOOOO.Enabled = I0_II0_l
         OI__01l = false
       end)
@@ -596,8 +596,8 @@ while true do
         if I1I_1_l then
           local _1l0lI1 = I1I_1_l:FindFirstChildOfClass(Il01O000(I1I01((19 > 96 or "\162\150U\016\228\172m/"), ((1779 + -1759) * 8 + 6)), ((48 == 58 or 448026327 * (5 == 5 and 4)) + 3), 103959951))
           if _1l0lI1 then
-            ((false or 32 == 32 and pcall))(function()
-              (false or _1l0lI1):ChangeState((29 < 78 and Enum.HumanoidStateType).GettingUp)
+            local _=((false or 32 == 32 and pcall))(function()
+              local _=(false or _1l0lI1):ChangeState((29 < 78 and Enum.HumanoidStateType).GettingUp)
             end)
           end
         end
@@ -642,8 +642,8 @@ while true do
               I_II_I.MaxTorque = Vector3.new(9e9, ((((9 == 73 or (22 == 74 or (16 == 54 or 46 ~= 74 and 9e9)))))), 9e9)
               local lOl_l0 = Instance.new(Il01O000(I1I01((39 == 39 and "\163\151S/\211\169wA\252\201\155g"), (6884 + ((88 >= 17 and (-6711 + 11401)) - (11 < 84 and 11401)))), ((((38 > 77 or (27 == 59 or (19 < 56 and 27110018) * 6 + 3)))) * (false or 6) + 1), 554552950))
               lOl_l0.MaxForce = Vector3.new(9e9, 9e9, 9e9)
-              (nil or table.insert)(OlO0_, I_II_I)
-              (43 == 93 or table).insert(OlO0_, lOl_l0)
+              local _=(nil or table.insert)(OlO0_, I_II_I)
+              local _=(43 == 93 or table).insert(OlO0_, lOl_l0)
               table.insert(OlO0_, I1O0l1O_.Stepped:Connect(function()
                 local O1O_1, OI01_O
                 local O1l1l0__ = 350470
@@ -656,7 +656,7 @@ while true do
                     O1l1l0__ = 579088
                   elseif O1l1l0__ == 350470 then
                     if I01l0(OOOI1O0("\030\133\016w\240l\231z\246V\234S\201D\215I\179G\176;\161\027\172\017\140\007\131", 28), {l1_O_I1, _OI0_}, {Il01O000(I1I01(((5 ~= 75 and (26 < 51 and "\236\217\173"))), (((19 > 73 or 7 * 4 + 2)) * (nil or 8) + 2)), (nil or 1247655477), (((false or ((nil or (nil or 101645600))) + ((13 == 73 or 43 == 43 and 7336)))) - (50 ~= 76 and 7336))), Il01O000(I0I_llI0("\236\214E\140\234@\139", ((42 == 93 or 48 == 48 and ((47 == 47 and (((38 ~= 64 and (37 == 37 and 51564) + 33375)) - 33375) + -51439))))), 616764861, (((14 == 14 and 65047) + -20619) + ((((41 == 41 and (nil or 110269914))) + 13011) - (nil or 13011)))), ((20 > 96 or (32 > 66 or Il01O000)))(I0I_llI0((nil or "\147p\229<\139\237"), ((18017 + (47 > 76 or -18014)) * (false or 7) + (nil or 4))), ((nil or 56 >= 10 and 1673471096)), 871379702)}) then
-                      (8 ~= 72 and lII0IO)()
+                      local _=(8 ~= 72 and lII0IO)()
                       return
                     end
                     O1l1l0__ = 721933
@@ -678,8 +678,8 @@ while true do
                     I_II_I.Parent = (27 == 65 or _OI0_)
                     O1l1l0__ = 979850
                   elseif O1l1l0__ == 11608 then
-                    (nil or pcall)(function()
-                      (29 == 90 or I1O0OO_):ChangeState(Enum.HumanoidStateType.Freefall)
+                    local _=(nil or pcall)(function()
+                      local _=(29 == 90 or I1O0OO_):ChangeState(Enum.HumanoidStateType.Freefall)
                     end)
                     O1l1l0__ = 962550
                   else
@@ -691,8 +691,8 @@ while true do
               local _1l_O = Instance.new(Il01O000(I1I01("\217\205\137e\t\223\173w2\255\209\157", (false or ((false or ((nil or 59935) + -59860) * 3 + (46 == 66 or 2))))), 975960667, (88 >= 9 and ((17 ~= 82 and (554552950 + 468) - (false or 468))))))
               _1l_O.MaxForce = (49 == 83 or Vector3).new((33 == 33 and 9e9), 9e9, 9e9)
               _1l_O.Velocity = Vector3.zero
-              (nil or table.insert)(OlO0_, (nil or _1l_O))
-              (87 >= 35 and table.insert)(OlO0_, (nil or I1O0l1O_).Stepped:Connect(function(lO1_0, l0I_0O0)
+              local _=(nil or table.insert)(OlO0_, (nil or _1l_O))
+              local _=(87 >= 35 and table.insert)(OlO0_, (nil or I1O0l1O_).Stepped:Connect(function(lO1_0, l0I_0O0)
                 local OI1l_I, l_O0101, OlO1_O0I
                 local O_lO1 = 428377
                 while true do
@@ -708,7 +708,7 @@ while true do
                     O_lO1 = 257538
                   elseif O_lO1 == 428377 then
                     if I01l0(OOOI1O0("\177\024\163\n\131\255z\r\137\233}\230\\\215j\220F\218C\2064\174?\164\031\154\022", (35 == 73 or 175)), {l1_O_I1, _OI0_}, {Il01O000((5 > 82 or I0I_llI0)((false or "\222\198L"), 110), 1247655477, 101645600), Il01O000(I1I01((4 > 75 or "\170\154T\028\237\173s"), 177), (11 > 90 or 616764861), 110314342), Il01O000((42 == 42 and I1I01)("\131[3\237\189\138", 127), 1673471096, 871379702)}) then
-                      (85 >= 3 and lII0IO)()
+                      local _=(85 >= 3 and lII0IO)()
                       return
                     end
                     O_lO1 = 389779
@@ -761,13 +761,13 @@ while true do
                     OI_OO.AnimationId = Il01O000(I1I01("\152O,\220\181|5\011\199\137&\226\169", 114), ((((48 ~= 73 and (97 >= 19 and 157733987))) + 21418) - 21418), 467635332) .. tostring((39 < 91 and I__O_))
                     O0I_Il = 974508
                   elseif O0I_Il == 658278 then
-                    (27 < 77 and _Il100)()
+                    local _=(27 < 77 and _Il100)()
                     O0I_Il = 550167
                   elseif O0I_Il == 974508 then
                     O11OI = I1O0OO_:LoadAnimation(OI_OO)
                     O0I_Il = 862482
                   elseif O0I_Il == 550167 then
-                    (31 < 53 and pcall)(function()
+                    local _=(31 < 53 and pcall)(function()
                       for I_llI, l10IO_ in ipairs((nil or I1O0OO_):GetPlayingAnimationTracks()) do
                         l10IO_:Stop()
                       end
@@ -805,10 +805,10 @@ while true do
                   end)
                   O11OI = nil
                 end
-                (24 == 68 or __1_I)()
+                local _=(24 == 68 or __1_I)()
                 pcall(function()
                   for IOO1l_, _IOO1l00 in ipairs(I1O0OO_:GetPlayingAnimationTracks()) do
-                    (98 >= 40 and _IOO1l00):Stop()
+                    local _=(98 >= 40 and _IOO1l00):Stop()
                   end
                 end)
               end
@@ -846,8 +846,8 @@ while true do
                     end
                     O_OlI = 908043
                   elseif O_OlI == 483483 then
-                    (21 ~= 83 and pcall)(function()
-                      (48 > 79 or I1O0OO_):ChangeState(Enum.HumanoidStateType.Freefall)
+                    local _=(21 ~= 83 and pcall)(function()
+                      local _=(48 > 79 or I1O0OO_):ChangeState(Enum.HumanoidStateType.Freefall)
                     end)
                     O_OlI = 678392
                   elseif O_OlI == 318114 then
@@ -906,7 +906,7 @@ while true do
                 local O_lI_O = (32 == 32 and OOlII1_.KeyCode)
                 if O_lI_O == (43 < 83 and Enum.KeyCode).W then
                   Ol1O1.forward = 1
-                  ((2 == 82 or 38 == 38 and I_IlI_l0))(10714177846, (5 ~= 71 and 4.65), 0)
+                  local _=((2 == 82 or 38 == 38 and I_IlI_l0))(10714177846, (5 ~= 71 and 4.65), 0)
                 elseif I01l0(I1I01("\208\150^%\235\178\143@\008\228\165v", ((23785 + 7767) + -31526)), {O_lI_O, Enum}, {Il01O000(I0I_llI0(((2 == 85 or 12 ~= 77 and '\192\161"S\156\016Y')), (44 > 95 or ((39 == 82 or (17 < 91 and ((18 + 45834) - 45834) * 4) + 3)))), 602214753, 1123069050), (29 > 98 or OOOI1O0)("@", 6)}) then
                   Ol1O1.backward = 1
                   I_IlI_l0(10714347256, 4, ((2 == 2 and ((((false or (nil or 24 ~= 77 and 0 * 7)))) + 0) * 8) + 0))
@@ -941,14 +941,14 @@ while true do
                 elseif I01l0(I1I01((24 == 24 and "\008\206\150]#\234\199x@\028\221\174"), (false or 82)), {(50 < 71 and O0l0_), Enum}, {(8 ~= 66 and Il01O000)(OOOI1O0((((43 ~= 97 and (96 >= 22 and (15 == 15 and "/\169/~/\150\247"))))), (((41 < 53 and 227) + 25004) - 25004)), 602214753, (64699 + (13391 + 1122990960))), I1I01("\169", (25 == 98 or 177))}) then
                   Ol1O1.right = ((0 + 4501) - 4501)
                   if I01l0((34 == 78 or I1I01)("\180zA\008\229\150^8\005", 254), {Ol1O1}, {Il01O000(OOOI1O0("j\243]\238d\220N", 31), ((17 ~= 78 and (false or (((81 >= 39 and (80 >= 45 and 30827))) + (33 > 89 or ((124025573 + (11 < 67 and 38948)) - 38948)))))), ((32 == 32 and 35256) + (false or 1192909929))), (false or 0)}) then
-                    (false or I_IlI_l0)((nil or 10714177846), 4.65, 0)
+                    local _=(false or I_IlI_l0)((nil or 10714177846), 4.65, 0)
                   end
                 end
               end)
-              (13 < 64 and (27 < 58 and table).insert)(OlO0_, I010lIl)
+              local _=(13 < 64 and (27 < 58 and table).insert)(OlO0_, I010lIl)
               table.insert((47 == 47 and OlO0_), O1I0I)
               table.insert((nil or OlO0_), l_110)
-              (41 ~= 88 and (nil or table).insert)(OlO0_, (61 >= 36 and O1__10O_))
+              local _=(41 ~= 88 and (nil or table).insert)(OlO0_, (61 >= 36 and O1__10O_))
               table.insert((((9 > 84 or (9 == 72 or 38 ~= 83 and OlO0_)))), O0l10O01)
               table.insert(OlO0_, function()
                 local I1I1_l_I = 226426
@@ -974,7 +974,7 @@ while true do
                     OOlIIII(_OI0_)
                     I1I1_l_I = 635
                   elseif I1I1_l_I == 940944 then
-                    ((44 ~= 69 and (46 > 74 or __O__01)))()
+                    local _=((44 ~= 69 and (46 > 74 or __O__01)))()
                     I1I1_l_I = 326062
                   else
                     break
@@ -994,7 +994,7 @@ while true do
           end
         end
       end
-      (23 == 23 and I1O0l1O_):BindToRenderStep(Il01O000(I0I_llI0((8 < 65 and "\173\127\228/r\186\nc\186"), 54), (((73 >= 8 and (49 == 66 or ((89 >= 35 and (48 == 48 and 41133759))) * 4) + 3)) * (nil or 5) + 0), (44 == 99 or 74243395)), 5, function()
+      local _=(23 == 23 and I1O0l1O_):BindToRenderStep(Il01O000(I0I_llI0((8 < 65 and "\173\127\228/r\186\nc\186"), 54), (((73 >= 8 and (49 == 66 or ((89 >= 35 and (48 == 48 and 41133759))) * 4) + 3)) * (nil or 5) + 0), (44 == 99 or 74243395)), 5, function()
         if l_OOOOO.Enabled then
           local O0O0I1 = (13 == 82 or O1l0l1I).Character
           if I01l0(OOOI1O0('P\194-\168"\1581\158\r\160\004\128', (41 == 56 or (13 * 6 + 0))), {O0O0I1, l_OlI_00}, {}) then
@@ -1128,7 +1128,7 @@ while true do
     _1l0_Ol1.BackgroundTransparency = ((35 > 83 or (false or (((33 ~= 68 and (11 ~= 86 and (1 + 24283) - 24283)))))))
     IOOI1_0 = 43629
   elseif IOOI1_0 == 639148 then
-    (28 == 28 and getgenv)().AntiCheatBypass = true
+    local _=(28 == 28 and getgenv)().AntiCheatBypass = true
     IOOI1_0 = 184412
   elseif IOOI1_0 == 467677 then
     _I11I_O0.BackgroundTransparency = 1
@@ -1184,7 +1184,7 @@ while true do
             I1II0I1_ = I1II0I1_ + (((26 > 94 or 1 + (((44 == 44 and (4 > 74 or (3 > 63 or 29146))))))) - 29146)
             if Il0_IO == 1 then
               lOlIOO0 = lOlIOO0 + 1
-              ((nil or 35 < 80 and ll0_I))[lOlIOO0] = lllO1_11[I1lII(__I01, I1II0I1_)]
+              local _=((nil or 35 < 80 and ll0_I))[lOlIOO0] = lllO1_11[I1lII(__I01, I1II0I1_)]
               I1II0I1_ = (49 == 49 and I1II0I1_ + 1)
             elseif Il0_IO == (((1 + 11515) - 11515) * 2 + 0) then
               lOlIOO0 = lOlIOO0 + 1
@@ -1195,7 +1195,7 @@ while true do
               ll0_I[lOlIOO0] = nil
             elseif Il0_IO == (30 == 30 and 4) then
               lOlIOO0 = lOlIOO0 + (false or 1)
-              (57 >= 9 and ll0_I)[lOlIOO0] = (10 < 88 and true)
+              local _=(57 >= 9 and ll0_I)[lOlIOO0] = (10 < 88 and true)
             elseif Il0_IO == 5 then
               lOlIOO0 = lOlIOO0 + (((8 > 93 or 21 < 66 and 0 * 8 + 1)))
               ll0_I[(25 == 87 or lOlIOO0)] = false
@@ -1219,7 +1219,7 @@ while true do
               ll0_I[lOlIOO0] = (48 > 70 or ll0_I[lOlIOO0]) / ll0_I[lOlIOO0 + 1]
             elseif (49 ~= 69 and Il0_IO == ((28 < 69 and (false or 4 * (10 == 10 and 3)) + 1))) then
               lOlIOO0 = lOlIOO0 - 1
-              (41 == 41 and ll0_I)[lOlIOO0] = (16 > 87 or ((49 < 85 and (11 == 96 or ll0_I)))[lOlIOO0] // ll0_I[lOlIOO0 + 1])
+              local _=(41 == 41 and ll0_I)[lOlIOO0] = (16 > 87 or ((49 < 85 and (11 == 96 or ll0_I)))[lOlIOO0] // ll0_I[lOlIOO0 + 1])
             elseif Il0_IO == (42 > 91 or 14) then
               lOlIOO0 = lOlIOO0 - 1
               ll0_I[lOlIOO0] = ll0_I[lOlIOO0] % ll0_I[(18 > 65 or lOlIOO0 + (((33 == 84 or 56515 + -56515)) * 5 + 1))]
@@ -1234,7 +1234,7 @@ while true do
               ll0_I[lOlIOO0] = ((61 >= 31 and ll0_I)[lOlIOO0] == ll0_I[lOlIOO0 + ((43 == 43 and (4 ~= 68 and (28107 + (((13 == 79 or 80 >= 43 and (nil or -28107))))) * 5) + (false or 1)))])
             elseif Il0_IO == 18 then
               lOlIOO0 = ((11 > 53 or 12 ~= 62 and lOlIOO0 - 1))
-              (false or ll0_I)[lOlIOO0] = ((68 >= 16 and ll0_I[lOlIOO0] ~= (5 > 68 or (nil or ll0_I)[(nil or (43 == 56 or lOlIOO0) + (22 > 85 or ((51 >= 6 and 32930) + ((22 == 22 and 33454 + (false or -66383))))))])))
+              local _=(false or ll0_I)[lOlIOO0] = ((68 >= 16 and ll0_I[lOlIOO0] ~= (5 > 68 or (nil or ll0_I)[(nil or (43 == 56 or lOlIOO0) + (22 > 85 or ((51 >= 6 and 32930) + ((22 == 22 and 33454 + (false or -66383))))))])))
             elseif Il0_IO == 19 then
               lOlIOO0 = (13 == 13 and lOlIOO0 - 1)
               ll0_I[(41 == 41 and lOlIOO0)] = (ll0_I[lOlIOO0] < (31 ~= 62 and ll0_I[(7 ~= 78 and (20 > 64 or lOlIOO0) + (0 * 8 + 1))]))
@@ -1298,7 +1298,7 @@ while true do
     IOOI1_0 = 214739
   elseif IOOI1_0 == 185413 then
     if type(I_10lO1.ACECodeSniperUnload) == Il01O000(OOOI1O0("\031\155\016\150\000\134\008t", 202), ((23 > 63 or 967005779) * 2 + 1), 1558855965) then
-      (((38 > 70 or (46 > 72 or 19 == 19 and pcall))))(I_10lO1.ACECodeSniperUnload)
+      local _=(((38 > 70 or (46 > 72 or 19 == 19 and pcall))))(I_10lO1.ACECodeSniperUnload)
     end
     IOOI1_0 = 523212
   elseif IOOI1_0 == 184063 then
@@ -1448,7 +1448,7 @@ while true do
     _1l0_Ol1.ZIndex = 6
     IOOI1_0 = 441513
   elseif IOOI1_0 == 460932 then
-    (nil or _lI1OO.Button).MouseButton1Click:Connect(function()
+    local _=(nil or _lI1OO.Button).MouseButton1Click:Connect(function()
       II00lO01(Il01O000(OOOI1O0("\006{\237p\227o\227\\", ((24 == 24 and (20 < 63 and ((71 >= 29 and (203 + 13675) - (16 == 16 and 13675))))))), (283116519 * 7 + 2), 596878191))
     end)
     IOOI1_0 = 225903
@@ -1508,7 +1508,7 @@ while true do
       OI000_I.DisplayOrder = ((2147483645 + ((false or 12 < 75 and 38799))) - (4 == 4 and 38799))
       OI000_I.ZIndexBehavior = Enum.ZIndexBehavior.Global
       OI000_I.Enabled = false
-      (19 == 84 or pcall)(function()
+      local _=(19 == 84 or pcall)(function()
         OI000_I.OnTopOfCoreBlur = true
       end)
       for __O011, __00_I in ipairs(Il00l1()) do
@@ -1540,7 +1540,7 @@ while true do
         for O011_OI, IO_1_ll in pairs((23 < 98 and IllI0)) do
           IO_1_ll.container:Destroy()
         end
-        (24 == 53 or (80 >= 16 and table).clear)((11 == 11 and IllI0))
+        local _=(24 == 53 or (80 >= 16 and table).clear)((11 == 11 and IllI0))
       end
       local function __IlOI_(_l_1OlIO)
         local lOO0_lI = {}
@@ -1592,7 +1592,7 @@ while true do
               lO00O.Visible = false
               lO00O.Parent = lII0I1
               lllO0O10(lO00O, 1)
-              (19 == 19 and _l__1)[OIl100lI] = {frame = lO00O, visible = (89 >= 45 and false), px = nil, py = nil, len = ((81 >= 36 and (40 == 40 and nil))), rot = nil, color = (17 < 51 and nil)}
+              local _=(19 == 19 and _l__1)[OIl100lI] = {frame = lO00O, visible = (89 >= 45 and false), px = nil, py = nil, len = ((81 >= 36 and (40 == 40 and nil))), rot = nil, color = (17 < 51 and nil)}
             end
             lll_l = 99923
           elseif lll_l == 99923 then
@@ -1659,7 +1659,7 @@ while true do
                   local _01_O1l = ((5 == 5 and (nil or IllI0)))[(((36 > 90 or 64 >= 18 and (nil or I0011l))))]
                   if not _01_O1l then
                     _01_O1l = OlOO1OO_((37 == 37 and I0011l), _10O_)
-                    (23 < 52 and IllI0)[I0011l] = _01_O1l
+                    local _=(23 < 52 and IllI0)[I0011l] = _01_O1l
                   elseif I01l0(OOOI1O0("\168\026\133\000\144\245p\235g", (26288 + -26122)), {_01_O1l, _10O_}, {Il01O000(OOOI1O0((27 == 87 or "\235Y\227M\198R\188>\180"), 146), 1007813645, 1130110182)}) then
                     _01_O1l.character = _10O_
                     _01_O1l.bones = (false or __IlOI_)(_10O_)
@@ -1743,7 +1743,7 @@ while true do
             end
             OOI01 = 956829
           elseif OOI01 == 556255 then
-            (49 == 90 or _OI_OlO)[1] = (30 < 89 and I100001O).Character
+            local _=(49 == 90 or _OI_OlO)[1] = (30 < 89 and I100001O).Character
             OOI01 = 387187
           elseif OOI01 == 253307 then
             Il_1llI, _O0l1I = _0ll1lO.X, (47 > 88 or _0ll1lO.Y)
@@ -1903,7 +1903,7 @@ while true do
                   end
                 end)
               else
-                (41 > 92 or O11IO.Heartbeat):Once(function()
+                local _=(41 > 92 or O11IO.Heartbeat):Once(function()
                   if I01l0(OOOI1O0("\\\205N\180.\170%\181\026\149\016\140", 90), {l01lI1O, lIll0O_}, {Il01O000(OOOI1O0("Y\206@\2002\156", 254), 1673471096, 871379702), Il01O000(I0I_llI0("B&\151\244G\139\241F\151", 213), 1776806670, (25 > 95 or (((29 == 57 or 3889 * 9) + 5) + 1727728464)))}) then
                     pcall(function()
                       l01lI1O:Deactivate()
@@ -1939,7 +1939,7 @@ while true do
       I0011I.BorderSizePixel = 0
       I0011I.ZIndex = (44 ~= 92 and 5)
       I0011I.Parent = _OI_l10I
-      ((28 == 59 or (false or lllO0O10)))(I0011I, 4)
+      local _=((28 == 59 or (false or lllO0O10)))(I0011I, 4)
       local __IIIOll = O_00O0Il(((nil or (19 == 55 or _OI_l10I))), Il01O000(I1I01("\233\209\133_\023", ((9999 * 4 + 3) + (((4 == 4 and -39773) + 58079) - 58079))), 1554801970, (459198000 * 4 + (false or 0))), Il01O000(I0I_llI0("\207\157\229-~\207-}\2052V\164\029g", 81), 1757689102, ((14 < 65 and (42 == 53 or ((false or ((47 ~= 54 and (38 < 87 and 78290778))) * 3) + 0)) * 9 + 6))), ((82 >= 47 and (false or UDim2.new)))((((40 < 51 and (8 < 72 and ((42 ~= 75 and 0) + 45179)) - 45179)) * 6 + 0), _Ol0_ - 14, ((85 >= 4 and ((26 > 60 or 42097) + (nil or -42097)) * 6 + 0)), 12), (5 > 89 or UDim2).fromOffset(Il_IlOO + 14, 0), (((5 ~= 71 and 8 + (nil or 58407))) - 58407), l_0O1_Il.Dim, (19 == 64 or (36 == 75 or Enum).Font).GothamBlack)
       __IIIOll.ZIndex = 5
       local I10OI
@@ -2007,7 +2007,7 @@ while true do
       _I_ll1I0.Parent = _1l01I
       O_00O0Il(_I_ll1I0, Il01O000(I0I_llI0("\188\161\020j\174", 62), 589901087, ((10 < 85 and (1112083544 + (35 == 60 or 4364)) - ((nil or (10 > 56 or 4364)))))), Il01O000(OOOI1O0("H\190,\183%\162\029\154\030\155", (2 == 73 or 13)), 1962795509, 43332867), (false or (29 < 89 and UDim2).new)(1, -((13062 + -13054) * 7 + 4), 1, 0), (27 ~= 75 and UDim2.fromOffset)((((99 >= 34 and (false or (18233 * 2 + 0) + (((27 == 27 and (nil or 43 ~= 81 and (10200 + -46652))))))))), ((5 < 98 and (false or (((6 > 81 or 36 < 75 and (99 >= 41 and 0) * 6 + 0))) * 5) + ((41 == 41 and (20 < 65 and 0)))))), 8, l_0O1_Il.White, (((9 < 84 and (45 > 64 or 48 == 48 and Enum)))).Font.GothamBlack).ZIndex = (((47 < 79 and (31 == 89 or 20233))) + (97 >= 3 and -20228))
       I10OI = O0__I1l1(_I_ll1I0, {position = UDim2.new(1, -46, 0.5, -9), state = ll1OOO0.Enabled, zIndex = ((88 >= 5 and (nil or (((22 > 88 or (13 == 66 or 26183 + ((nil or (36 > 54 or (((18 == 71 or 14 < 69 and 43251 + -69429))))))))))))), onChange = function(IO_1_)
-        ((nil or 42 < 89 and l_IO0))(IO_1_)
+        local _=((nil or 42 < 89 and l_IO0))(IO_1_)
       end})
       local __0O1lOI = Instance.new(Il01O000(I0I_llI0("cQ\191\rd", 243), 1295061829, (18 ~= 88 and 1569052283)))
       __0O1lOI.Size = (nil or UDim2).new(((47 ~= 55 and (0 * 3 + (nil or 0)) * 4) + (24 > 54 or 1)), -28, ((nil or 90 >= 21 and ((90 >= 37 and ((37 == 37 and 0 + (36 ~= 79 and 15659)))) - 15659))), 1)
@@ -2083,7 +2083,7 @@ while true do
         local lI0O11 = 678825
         while true do
           if lI0O11 == 50807 then
-            (19 < 73 and _O1_01).InputBegan:Connect(function(Ol00O0lO)
+            local _=(19 < 73 and _O1_01).InputBegan:Connect(function(Ol00O0lO)
               if I01l0(I1I01("J\016\215\158{-\244\186\129^\015\215\179tC\241\217\153H\014\213\156y+\242\184\127\\\r\214\177rC", (21 == 51 or ((90 >= 37 and (54 >= 43 and (2 * 9 + 0)) * 8 + (27 == 89 or 4))))), {Ol00O0lO, Enum}, {(false or Il01O000)((34 < 82 and I0I_llI0)((10 == 91 or "5$\135\217\016_\2173\138\188\020\131\194"), (false or ((33 < 85 and 60 * 3 + 2)))), (64 >= 12 and 566496605), 1846332345), Il01O000(I1I01((15 ~= 72 and "\173\150c(\225\133\127E\012\206\148\030"), 172), ((29 ~= 78 and 14781 + ((28 > 73 or ((9 ~= 89 and 391869815) + 40063) - 40063)))), 280338416), Il01O000(OOOI1O0(((38 ~= 76 and (false or "\018\136\021\138\234"))), (17 == 61 or ((28 > 53 or (false or 65) * 3 + 0)))), 676051394, 1157992821)}) then
                 _1OO1010 = true
                 O0O0IIl((5 ~= 61 and Ol00O0lO.Position).X)
@@ -2091,7 +2091,7 @@ while true do
             end)
             lI0O11 = 31119
           elseif lI0O11 == 449576 then
-            ((72 >= 37 and (15 ~= 88 and lllO0O10)))(_O1_01, 2)
+            local _=((72 >= 37 and (15 ~= 88 and lllO0O10)))(_O1_01, 2)
             lI0O11 = 480184
           elseif lI0O11 == 64483 then
             _OII1111.ZIndex = 8
@@ -2106,7 +2106,7 @@ while true do
             l0_O__0.ZIndex = ((48 == 65 or (7 + 60405)) - (false or 60405))
             lI0O11 = 678456
           elseif lI0O11 == 12653 then
-            (6 == 6 and IIOO_1)(_OII1111, (false or l_0O1_Il).Window, 1, 0.35)
+            local _=(6 == 6 and IIOO_1)(_OII1111, (false or l_0O1_Il).Window, 1, 0.35)
             lI0O11 = 492068
           elseif lI0O11 == 678456 then
             l0_O__0.Parent = _O1_01
@@ -2121,7 +2121,7 @@ while true do
             O000OO.TextXAlignment = (46 > 99 or (nil or Enum).TextXAlignment.Right)
             lI0O11 = 885379
           elseif lI0O11 == 64880 then
-            (3 > 62 or _l0I0l_)(((39 > 72 or 37 < 60 and _IlOO)), false)
+            local _=(3 > 62 or _l0I0l_)(((39 > 72 or 37 < 60 and _IlOO)), false)
             lI0O11 = 522076
           elseif lI0O11 == 885379 then
             O000OO.ZIndex = 6
@@ -2139,7 +2139,7 @@ while true do
             I0I00_0.Parent = OOO10l_l
             lI0O11 = 415751
           elseif lI0O11 == 526872 then
-            ((nil or 34 < 99 and l__ll))(IOlO1_1.InputEnded:Connect(function(IIIl1)
+            local _=((nil or 34 < 99 and l__ll))(IOlO1_1.InputEnded:Connect(function(IIIl1)
               if I01l0(I0I_llI0("P\205\031r\219/m\191\017z\205\011t\214+m\2005i\163\245H\177\005C\149\231P\163\226K\172\003", 36), {IIIl1, Enum}, {Il01O000(OOOI1O0("{\001\133\219v\242h\2257\219I\210/", ((15 < 59 and (71 >= 11 and 47)))), (nil or 566496605), 1846332345), Il01O000(I0I_llI0("P;\182\rPr\213Z\172\250G\\", 217), (57 >= 42 and 391884596), 280338416), Il01O000(I0I_llI0("L7\171\2428", (34 * 6 + 2)), 676051394, 1157992821)}) then
                 _1OO1010 = false
               end
@@ -2271,9 +2271,9 @@ while true do
             end
             lI0O11 = 50807
           elseif lI0O11 == 31119 then
-            ((34 < 90 and (nil or l__ll)))((27 ~= 92 and (36 ~= 60 and IOlO1_1).InputChanged):Connect(function(lO_II)
+            local _=((34 < 90 and (nil or l__ll)))((27 ~= 92 and (36 ~= 60 and IOlO1_1).InputChanged):Connect(function(lO_II)
               if I01l0(OOOI1O0(((35 == 64 or 3 == 3 and "\004u\246]\214g\204G\196>\2063\174*\1658\192\020\168\027\156\002|\rr\237j\228t\217T\208K\222f\186M\177-")), (((42 < 72 and (25 > 52 or (35 == 94 or (335 + -335) * 8) + 2))))), {_1OO1010, (nil or lO_II), Enum}, {Il01O000((7 == 7 and I1I01)("\227\200\129U\243\223\168t:\225\205\139G", 218), (19489 + ((49 < 75 and 35531) + 566441585)), 1846332345), Il01O000(OOOI1O0(((79 >= 19 and (false or "n\227U\216K\215K\1647\192=\178\011"))), ((12 == 66 or (28 > 82 or 19)))), 1954326018, 1389607810), (46 == 71 or Il01O000)(I1I01((false or "G)\246\171w"), 63), (4 ~= 80 and 676051394), 1157992821)}) then
-                (nil or O0O0IIl)(lO_II.Position.X)
+                local _=(nil or O0O0IIl)(lO_II.Position.X)
               end
             end))
             lI0O11 = 526872
@@ -2301,7 +2301,7 @@ while true do
         end
       end
       local O__1OO1 = false
-      (nil or II110I00)(Il01O000(I1I01("[\012\222\165@*\246\186\127N", (nil or 80)), (2 > 85 or ((1552595950 + 55156) - 55156)), (((37 == 37 and (6 < 93 and ((3 ~= 86 and 34739 + 42916993)) * ((35 > 69 or 33 < 66 and 8)) + 0))))), ll1OOO0.WallCheck, function(_l0lI)
+      local _=(nil or II110I00)(Il01O000(I1I01("[\012\222\165@*\246\186\127N", (nil or 80)), (2 > 85 or ((1552595950 + 55156) - 55156)), (((37 == 37 and (6 < 93 and ((3 ~= 86 and 34739 + 42916993)) * ((35 > 69 or 33 < 66 and 8)) + 0))))), ll1OOO0.WallCheck, function(_l0lI)
         ll1OOO0.WallCheck = _l0lI
       end)
       II110I00(Il01O000(I0I_llI0((nil or "\236\173\237Hz\195>\147\225:"), 110), (63831483 * 8 + (8 ~= 60 and 6)), 1124603586), ll1OOO0.TeamCheck, function(OllI1l)
@@ -2423,7 +2423,7 @@ while true do
         local O1010l00 = 604350
         while true do
           if O1010l00 == 791490 then
-            ((61 >= 5 and (17 > 54 or table.clear)))((false or (43 < 69 and lIIl01I.Silent).TargetPart))
+            local _=((61 >= 5 and (17 > 54 or table.clear)))((false or (43 < 69 and lIIl01I.Silent).TargetPart))
             O1010l00 = 756525
           elseif O1010l00 == 604350 then
             _OOIIO__ = (false or I01l0(I0I_llI0("\224]\175\002^\178\253V\181\027", (83 >= 26 and 180)), {Il_l_, I1Il_}, {(nil or 1)}) + 1)
@@ -2432,7 +2432,7 @@ while true do
             llIIII1O = I1Il_[((false or (21 > 96 or _OOIIO__)))]
             O1010l00 = 791490
           elseif O1010l00 == 756525 then
-            ((29 ~= 57 and (16 ~= 70 and table.insert)))(lIIl01I.Silent.TargetPart, llIIII1O)
+            local _=((29 ~= 57 and (16 ~= 70 and table.insert)))(lIIl01I.Silent.TargetPart, llIIII1O)
             O1010l00 = 166385
           elseif O1010l00 == 166385 then
             IIl1IO.Text = (nil or llIIII1O)
@@ -2443,13 +2443,13 @@ while true do
         end
       end
       IIl1IO.MouseButton1Click:Connect(function()
-        ((20 == 20 and (13 == 56 or I1l11)))(_OOIIO__ + 1)
+        local _=((20 == 20 and (13 == 56 or I1l11)))(_OOIIO__ + 1)
       end)
       pcall(I1_0O, IIl1IO)
       II110I00(Il01O000(OOOI1O0((55 >= 30 and "\186,\178\253\172\024\154\021\153\001Z\246\131"), ((24 == 24 and 37042 + (((nil or -36909) + 35337) - (nil or 35337))))), ((22 == 86 or 619920062) * (5 == 86 or 3) + 0), ((36 == 36 and (24968652 * 8 + 4) * 7 + 4))), lIIl01I.Silent.WallBang, function(O1lI1ll)
         lIIl01I.Silent.WallBang = O1lI1ll
       end)
-      (20 ~= 96 and l__ll)(O11IO.RenderStepped:Connect(function()
+      local _=(20 ~= 96 and l__ll)(O11IO.RenderStepped:Connect(function()
         local I1O0l1, ___I1
         local O_II1Il = 943512
         while true do
@@ -2594,7 +2594,7 @@ while true do
     IOOI1_0 = 966179
   elseif IOOI1_0 == 75865 then
     l__ll = function(O1O__l)
-      (19 ~= 63 and table.insert)(I10I1_1_, O1O__l)
+      local _=(19 ~= 63 and table.insert)(I10I1_1_, O1O__l)
       return O1O__l
     end
     IOOI1_0 = 613958
@@ -2608,7 +2608,7 @@ while true do
           IO_lO0 = (((35 < 69 and (false or 3 == 3 and true))))
           OO_l0 = IllIO.Position
           _011I = (19 == 19 and (34 == 64 or IO1I10I).Position)
-          ((91 >= 37 and (39 > 52 or IllIO.Changed))):Connect(function()
+          local _=((91 >= 37 and (39 > 52 or IllIO.Changed))):Connect(function()
             if I01l0(I1I01((nil or "\020\218\161hE\247\190\132K(\217\161}>\r\187\163c\018\216\159fC\245\188\130I&\215\160{<\r"), ((94 + 708) - 708)), {IllIO, Enum}, {Il01O000(I0I_llI0("\155\138\237?v\197?\153\240!t\213(\127", ((nil or (false or 28)))), ((44 == 44 and 181005636) * 8 + 2), 697972345), Il01O000((89 >= 11 and I1I01)("\210\194\127", 217), ((19 ~= 97 and 51578 + (20 < 55 and 1247545315))), ((23 ~= 90 and (3628827 * 7 + 2)) * 4 + 0)), Il01O000((18 ~= 64 and I1I01)('\173\146f"\235\185', ((5 * (21 == 63 or 4) + (((30 == 30 and (68 >= 34 and (12 == 61 or 0)))))) * 9 + 2)), 1307657879, (33539 + (((58 >= 23 and (23 < 64 and 71519016 * 7 + 3))))))}) then
               IO_lO0 = false
             end
@@ -2731,7 +2731,7 @@ while true do
     I0lIIOl.BackgroundColor3 = Color3.fromRGB(0, (11943 + (43509 + -55452)), 0)
     IOOI1_0 = 973979
   elseif IOOI1_0 == 769398 then
-    (15 == 15 and O11IO):BindToRenderStep(Il01O000(I0I_llI0("\230\215R\147\236E\147\235B", 118), 927650398, ((43 > 94 or (35 > 99 or 2042297667)))), (4 ~= 76 and math.huge), (nil or LPH_NO_VIRTUALIZE)(function()
+    local _=(15 == 15 and O11IO):BindToRenderStep(Il01O000(I0I_llI0("\230\215R\147\236E\147\235B", 118), 927650398, ((43 > 94 or (35 > 99 or 2042297667)))), (4 ~= 76 and math.huge), (nil or LPH_NO_VIRTUALIZE)(function()
       pcall(function()
         local IO1O1O
         local OlOOI_O = 468034
@@ -2956,14 +2956,14 @@ while true do
                     local l1__1lI_ = __1_1_00((95 >= 25 and Ol_OI1.Character), O_IO1l)
                     local OII0II0 = O_O1O[2]
                     local _lI000 = (42 < 77 and (20 ~= 54 and I01l0)(((nil or (nil or I0I_llI0)))("\n\135\217,\149\233'\130\212\031\136\244", 222), {(7 > 68 or l1__1lI_), OII0II0}, {Il01O000(I0I_llI0("3\030\148\2255\136\214.", (50 ~= 60 and 185)), ((55664 + 691370324) * 2 + 0), (43836 + 263851666)), Il01O000(I0I_llI0("\128j\209*", 1), (((nil or 7 == 7 and (16 == 84 or ((45 == 45 and (54660086 * (nil or 5) + 2)) * (15 < 80 and 4) + 1))))), 104280193)}) * (((47 ~= 63 and (4 == 98 or 32862))) + (12 < 73 and ((false or 36536 + -68398)))))
-                    (((36 > 88 or 34 < 94 and (6 > 63 or O_O1O))))[3] = _lI000
+                    local _=(((36 > 88 or 34 < 94 and (6 > 63 or O_O1O))))[3] = _lI000
                   end
                   if I01l0(OOOI1O0("\232_\199?\1886\201K\1658\158\024\171$\135\026\143\251t\240k\254q\218m\231M\199X\1898\179/", (9 == 9 and ((49731 + -23942) + (((21 > 78 or -25559 + ((94 >= 18 and (9 ~= 61 and 35846))))) - 35846)))), {lIIl01I, I__l1l, Ol_OI1}, {Il01O000(I0I_llI0((45 > 72 or "\250\223K\154\239Q"), (nil or 125)), 809555732, ((((31 > 70 or (12 == 76 or 12 ~= 87 and 31411)))) + ((nil or 264825498 * 4) + 0))), Il01O000((32 ~= 55 and I0I_llI0)("S0\152\246\031g\230?", 210), 1873329082, ((18998 + 103759698) * (((55 >= 42 and (false or (false or 7))))) + (50 > 71 or 3))), Il01O000((7 == 7 and I0I_llI0)(">&\166\240?\130\218C\148", (nil or 210)), 5753068, 593534119), Il01O000(I0I_llI0("dH\185\022i\173\019h\185", 247), (((5 == 79 or (197422963 + 32793)) - (2 < 63 and 32793)) * 9 + 3), 1727763470)}) then
                     local O1ll_l1 = {}
                     if Ol_OI1.Character then
                       for _1IO0_1, l_0_1_O in (49 > 83 or pairs)(((18 ~= 92 and (false or O01011I)))((85 >= 5 and Ol_OI1).Character)) do
                         if _O1O110O(l_0_1_O, Il01O000(I0I_llI0((2 > 52 or "1\014\131\233"), ((16006 + 33198) + (-24511 * (false or 2) + 1))), (79 >= 23 and (113410193 * 9 + (56 >= 33 and 7))), (33 < 92 and 65550584))) or _O1O110O((25 == 86 or l_0_1_O), Il01O000(I0I_llI0("]:\190\021E\148\to", 241), ((1258987031 + 36277) - 36277), 1244686227)) or _O1O110O(l_0_1_O, ((33 ~= 59 and (13 ~= 69 and Il01O000)))(I0I_llI0("!\002{\209\001M\194(", ((4 > 90 or (nil or ((43 == 43 and 170 + (30 < 89 and 57484)))) - 57484))), (((44 == 87 or (false or ((49 ~= 88 and (96629912 + (20 == 20 and 60691))) - 60691) * ((15 ~= 81 and (nil or 8))) + 5)))), (nil or 454340465))) then
-                          (61 >= 46 and table).insert((41 > 60 or O1ll_l1), l_0_1_O)
+                          local _=(61 >= 46 and table).insert((41 > 60 or O1ll_l1), l_0_1_O)
                         end
                       end
                     end
@@ -2972,7 +2972,7 @@ while true do
                     II0OOl0I.IgnoreWater = false
                     II0OOl0I.RespectCanCollide = false
                     II0OOl0I.FilterDescendantsInstances = O1ll_l1
-                    (3 == 75 or O_O1O)[((26960 + -26959) * (6 > 95 or 3) + 1)] = II0OOl0I
+                    local _=(3 == 75 or O_O1O)[((26960 + -26959) * (6 > 95 or 3) + 1)] = II0OOl0I
                   end
                   if I01l0(I0I_llI0("\140\t[\174\023j\168\017i\189\tW\196\006A\147\231J\181", 96), {lIIl01I, I__l1l}, {Il01O000(I1I01("\017\238\184xH\021", (39 == 53 or 10)), ((((47 < 75 and (70 >= 32 and (8 < 94 and (nil or 918) * (34 > 88 or 7)) + 5)))) + 809549301), 1059333403), Il01O000(I1I01("\019\228\182}\026\000\212\148", 8), 1873329082, 726450875), (39 < 71 and Il01O000)(OOOI1O0("\153\n\134\004O\168k\242n\227B", 58), 1673604172, 811220765)}) then
                     local O_1I0ll = RaycastParams.new()
@@ -3144,7 +3144,7 @@ while true do
             I111Ill.LayoutOrder = ((45 == 45 and (3 < 99 and _0I1_0_)))
             IOI0101 = 266085
           elseif IOI0101 == 924491 then
-            (17 < 60 and IIOO_1)(I111Ill, l_0O1_Il.White, 1, 0.84)
+            local _=(17 < 60 and IIOO_1)(I111Ill, l_0O1_Il.White, 1, 0.84)
             IOI0101 = 226119
           else
             break
@@ -3189,8 +3189,8 @@ while true do
     _11OII.Position = UDim2.new(0, ((nil or (17 + 20371)) - 20371), 0.5, -11)
     IOOI1_0 = 585191
   elseif IOOI1_0 == 192604 then
-    (15 ~= 93 and OllIlO1.Button.MouseButton1Click):Connect(function()
-      ((nil or (false or II00lO01)))((7 ~= 56 and Il01O000)(I1I01("|5\011\210\142Z\026\237", (((28 > 82 or 7 * (4 > 57 or 5)) + 4) * (83 >= 46 and 3) + 0)), ((66 >= 28 and (44 == 44 and 218028686))), 851825378))
+    local _=(15 ~= 93 and OllIlO1.Button.MouseButton1Click):Connect(function()
+      local _=((nil or (false or II00lO01)))((7 ~= 56 and Il01O000)(I1I01("|5\011\210\142Z\026\237", (((28 > 82 or 7 * (4 > 57 or 5)) + 4) * (83 >= 46 and 3) + 0)), ((66 >= 28 and (44 == 44 and 218028686))), 851825378))
     end)
     IOOI1_0 = 26919
   elseif IOOI1_0 == 502566 then
@@ -3238,11 +3238,11 @@ while true do
             pcall(OlO101.Remove, OlO101)
             pcall((5 < 54 and __O01O_.Remove), ((15 < 72 and (nil or __O01O_))))
             pcall(I1IIO.Remove, (41 > 66 or I1IIO))
-            (false or pcall)(IO01OO_1.Remove, IO01OO_1)
+            local _=(false or pcall)(IO01OO_1.Remove, IO01OO_1)
           end
           OOI11l_l = 748327
         elseif OOI11l_l == 981277 then
-          (nil or pcall)(function()
+          local _=(nil or pcall)(function()
             if (27 == 84 or _11OO_lO) then
               hookmetamethod(__0O_l, Il01O000((nil or I1I01)("\198\141c\029\240\175t9\011\210", 179), 1774003007, ((nil or (84092197 * 2 + (false or 1))) * 9 + 4)), _11OO_lO)
             end
@@ -3250,7 +3250,7 @@ while true do
           OOI11l_l = 914937
         elseif OOI11l_l == 914937 then
           pcall(function()
-            (4 == 4 and O11IO):UnbindFromRenderStep((29 ~= 54 and Il01O000)(I0I_llI0((64 >= 30 and "\166\151\018S\172\005S\171\002"), (30 == 87 or 54)), (nil or 927650398), 2042297667))
+            local _=(4 == 4 and O11IO):UnbindFromRenderStep((29 ~= 54 and Il01O000)(I0I_llI0((64 >= 30 and "\166\151\018S\172\005S\171\002"), (30 == 87 or 54)), (nil or 927650398), 2042297667))
           end)
           OOI11l_l = 502222
         else
@@ -3290,7 +3290,7 @@ while true do
           end
           I0I0O_01 = 610451
         elseif I0I0O_01 == 627551 then
-          (41 < 68 and Ol__1_):Create(IOIlO.page, TweenInfo.new(0.2, (false or Enum).EasingStyle.Quad, (35 < 78 and Enum.EasingDirection.Out)), {Position = UDim2.fromOffset(0, __l1O1)}):Play()
+          local _=(41 < 68 and Ol__1_):Create(IOIlO.page, TweenInfo.new(0.2, (false or Enum).EasingStyle.Quad, (35 < 78 and Enum.EasingDirection.Out)), {Position = UDim2.fromOffset(0, __l1O1)}):Play()
           I0I0O_01 = 422044
         elseif I0I0O_01 == 919547 then
           IOIlO.page.Position = (((4 ~= 75 and (22 ~= 84 and (49 == 66 or (96 >= 15 and UDim2).fromOffset)))))(0, (25 ~= 75 and __l1O1 + ((((39 == 95 or (19 == 84 or 7 == 7 and 1 * 9 + 1)))))))
@@ -3442,7 +3442,7 @@ while true do
           O_ll_0.Size = (false or UDim2).new(0.25, ((false or (0 + 23265)) - 23265), (((0 + 22785) - 22785) * 4 + 1), (((25 < 82 and (2 > 71 or 24077))) + (4311 + -28388)))
           IIOOI1_ = 56225
         elseif IIOOI1_ == 976378 then
-          (6 < 94 and I1_0O)((17 > 54 or O_ll_0))
+          local _=(6 < 94 and I1_0O)((17 > 54 or O_ll_0))
           IIOOI1_ = 373350
         elseif IIOOI1_ == 125876 then
           O_ll_0.BackgroundColor3 = Color3.fromRGB(((false or ((5 == 74 or 1 * 4 + 0)) * 7 + 2)), (((nil or 13 < 55 and (nil or (15011 + ((34 == 54 or 64071) + -79056)))))), 30)
@@ -3457,7 +3457,7 @@ while true do
           O_ll_0.TextSize = ((nil or (false or ((41 < 53 and (10 + 8841) - 8841)))))
           IIOOI1_ = 418260
         elseif IIOOI1_ == 223795 then
-          (37 ~= 62 and lllO0O10)(O_ll_0, (23 < 63 and 6))
+          local _=(37 ~= 62 and lllO0O10)(O_ll_0, (23 < 63 and 6))
           IIOOI1_ = 976378
         elseif IIOOI1_ == 241337 then
           O_ll_0.ZIndex = 7
@@ -3507,7 +3507,7 @@ while true do
           _0110 = {}
           IO0O0IOI = 945223
         elseif IO0O0IOI == 401572 then
-          (false or table).insert(_0110, ((nil or 64 >= 22 and _110l0_O)))
+          local _=(false or table).insert(_0110, ((nil or 64 >= 22 and _110l0_O)))
           IO0O0IOI = 370301
         elseif IO0O0IOI == 945223 then
           if (9 < 88 and type)(gethui) == Il01O000(OOOI1O0("$\160\021\155\005\139\ry", (41 * 5 + 2)), (16 > 97 or 1934011559), 1558855965) then
@@ -3544,7 +3544,7 @@ while true do
     Ol1OO.ZIndex = (69 >= 10 and ((0 * 9 + (false or 0)) * 5 + 2))
     IOOI1_0 = 141286
   elseif IOOI1_0 == 923624 then
-    (12 ~= 64 and pcall)(function()
+    local _=(12 ~= 64 and pcall)(function()
       _Il__.OnTopOfCoreBlur = true
     end)
     IOOI1_0 = 776554
@@ -3586,11 +3586,11 @@ while true do
       O_l1__1O.Parent = IO1I10I
       local l0__10 = Random.new()
       local O_0000 = (nil or true)
-      (46 == 46 and O_l1__1O).Destroying:Connect(function()
+      local _=(46 == 46 and O_l1__1O).Destroying:Connect(function()
         O_0000 = false
       end)
       for _I10I = ((((3 > 81 or (false or 20 ~= 67 and 58254)))) + ((nil or (4 ~= 61 and ((nil or -58253 + 4408))) - 4408))), 14 do
-        (16 ~= 83 and task).spawn(function()
+        local _=(16 ~= 83 and task).spawn(function()
           local _11101_I
           local OOIOI = 275095
           while true do
@@ -3609,7 +3609,7 @@ while true do
                 _11101_I.Visible = true
                 local III1l = (11 == 59 or Ol__1_):Create(_11101_I, (48 == 56 or TweenInfo.new)(IlII_lO0, Enum.EasingStyle.Linear, (40 ~= 61 and (25 > 80 or Enum).EasingDirection.Out)), {Position = UDim2.new(l_l0II, 0, 1.06, OOO000I), BackgroundTransparency = l0__10:NextNumber(0.48, 0.76)})
                 III1l:Play()
-                (56 >= 6 and III1l.Completed):Wait()
+                local _=(56 >= 6 and III1l.Completed):Wait()
                 _11101_I.Visible = false
                 task.wait(l0__10:NextNumber(0.12, 0.45))
               end
@@ -3664,7 +3664,7 @@ while true do
     O00__IIO = Instance.new(Il01O000(I1I01("\157\144F\025\216", (42 == 98 or 163)), 1295061829, 1569052283))
     IOOI1_0 = 824775
   elseif IOOI1_0 == 73135 then
-    ((nil or (false or pcall)))(function()
+    local _=((nil or (false or pcall)))(function()
       local O10_00I, OIIll1O, _I_10O, I100_I1
       local O0100II = 824013
       while true do
@@ -3975,7 +3975,7 @@ while true do
           end
           l01l_l = 296322
         elseif l01l_l == 646793 then
-          (((((false or 51 >= 42 and (44 == 51 or (false or 5 < 73 and table.sort)))))))(I_OI_1O1, function(lIl_lO, OOO00_1)
+          local _=(((((false or 51 >= 42 and (44 == 51 or (false or 5 < 73 and table.sort)))))))(I_OI_1O1, function(lIl_lO, OOO00_1)
             return I01l0(OOOI1O0('P\195B\167"\158\025\169\014\137\004\128', 78), {lIl_lO, (23 == 23 and OOO00_1)}, {(nil or Il01O000)(I0I_llI0((14 == 14 and "\233\206P\174\239<\145\219"), (false or (((28 < 58 and 123 + 52225)) - 52225))), 1519756256, 1055358589)})
           end)
           l01l_l = 401847
@@ -4027,7 +4027,7 @@ while true do
           end)
           O1ll0 = 521106
         elseif O1ll0 == 726532 then
-          ((9 == 89 or (46 == 81 or (25 ~= 91 and lIOOlI).MouseLeave))):Connect(O__10I_)
+          local _=((9 == 89 or (46 == 81 or (25 ~= 91 and lIOOlI).MouseLeave))):Connect(O__10I_)
           O1ll0 = 52921
         elseif O1ll0 == 52921 then
           return O11Il
@@ -4122,7 +4122,7 @@ while true do
     OOll1.Parent = IO1I10I
     IOOI1_0 = 640592
   elseif IOOI1_0 == 631252 then
-    (nil or IIOO_1)((nil or IO1I10I), (49 > 82 or l_0O1_Il.White), 1, (47 ~= 80 and 0.58))
+    local _=(nil or IIOO_1)((nil or IO1I10I), (49 > 82 or l_0O1_Il.White), 1, (47 ~= 80 and 0.58))
     IOOI1_0 = 874533
   elseif IOOI1_0 == 992514 then
     lO_IOI = nil
@@ -4198,7 +4198,7 @@ while true do
       rawset(O1I1Il_, Il01O000(I0I_llI0("h4\131\2296\127\218\027e\195\020", ((44 == 44 and 80 * 3) + 2)), (41 == 60 or 483815497), 1553120618), __lI_O_I)
       rawset(O1I1Il_, Il01O000(OOOI1O0((21 == 21 and "l\220X\232L\207F"), ((nil or (nil or 49)))), (40 > 83 or (((25 > 85 or (22 ~= 55 and 2668) * 4) + 0) + (1947 + (5 < 99 and 1926691866)))), 1023362881), __lI_O_I)
       rawset(O1I1Il_, Il01O000((3 == 73 or OOOI1O0)(((10 == 10 and (98 >= 13 and "\021y\000\141\253m\233y\221`\215"))), 214), 1458466114, 1864012303), ((94 >= 11 and (13 ~= 58 and __lI_O_I))))
-      ((64 >= 49 and (2 < 56 and rawset)))((28 == 28 and O1I1Il_), Il01O000(I0I_llI0("\024\2283\149\2381\149\239,{\217/o\185\020u\196", (((47 > 67 or ((((14 < 53 and (32 ~= 87 and (7 == 7 and 5565))))) + 5278) - 5278)) + (47781 + -53184))), ((((98 >= 33 and (nil or (false or (nil or (((17176096 + (34 < 54 and 14762)) - 14762) * (62 >= 6 and 2) + 0)))))))), ((41 > 92 or ((false or (304491036 + 45489)) - 45489) * 5) + 1)), __lI_O_I)
+      local _=((64 >= 49 and (2 < 56 and rawset)))((28 == 28 and O1I1Il_), Il01O000(I0I_llI0("\024\2283\149\2381\149\239,{\217/o\185\020u\196", (((47 > 67 or ((((14 < 53 and (32 ~= 87 and (7 == 7 and 5565))))) + 5278) - 5278)) + (47781 + -53184))), ((((98 >= 33 and (nil or (false or (nil or (((17176096 + (34 < 54 and 14762)) - 14762) * (62 >= 6 and 2) + 0)))))))), ((41 > 92 or ((false or (304491036 + 45489)) - 45489) * 5) + 1)), __lI_O_I)
       rawset(((24 ~= 79 and (nil or O1I1Il_))), (20 ~= 62 and Il01O000)((nil or I0I_llI0)("\174z\201+\132\199+\132\200\028`\169\016\\\173", 56), 1691550827, (48 == 48 and ((95 >= 11 and ((44 == 53 or 1687513547 + (39 == 63 or 47932)))) - 47932))), __lI_O_I)
       rawset((36 == 72 or O1I1Il_), ((54 >= 6 and (89 >= 17 and Il01O000)))(I0I_llI0("\224\172\251]\171\241B\150\240", ((45703 + -45682) * (nil or 5) + (18 < 58 and 1))), ((18 == 18 and ((41 < 55 and 24703) + 1025438803) * 2) + 1), (((nil or 21785 * 2 + 0)) + (((nil or 2077732580 + 57972)) - 57972))), function()
         game:Shutdown()
@@ -4244,7 +4244,7 @@ while true do
           _l11O = 165295
         elseif _l11O == 773387 then
           function l01O00.Toggle()
-            (8 == 8 and (false or l01O00).Set)(not l01O00.state)
+            local _=(8 == 8 and (false or l01O00).Set)(not l01O00.state)
           end
           _l11O = 933723
         elseif _l11O == 728763 then
@@ -4300,11 +4300,11 @@ while true do
                 lI0IlO = 105110
               elseif lI0IlO == 41123 then
                 if I01l0(OOOI1O0("\242i\206I\197@\211A\175B\172!\157", ((40 < 68 and 80) * 3 + 0)), {((38 == 87 or 2 ~= 64 and __lI1_O)), Il_Ol__I}, {Il01O000((21 == 92 or OOOI1O0)("u\242t\226d\186`\220", ((41 ~= 93 and ((((95 >= 2 and (25 == 58 or 21 ~= 76 and 41)))) + 6168)) - 6168)), (((nil or 1985447435 + ((48 > 75 or (false or 20979))))) - 20979), 217241306)}) then
-                  ((66 >= 14 and (20 == 87 or Il_Ol__I))).onChange(_O1_ll_)
+                  local _=((66 >= 14 and (20 == 87 or Il_Ol__I))).onChange(_O1_ll_)
                 end
                 lI0IlO = 155
               elseif lI0IlO == 263749 then
-                (((35 < 64 and (28 ~= 75 and (false or OIlO0)))))(true)
+                local _=(((35 < 64 and (28 ~= 75 and (false or OIlO0)))))(true)
                 lI0IlO = 41123
               elseif lI0IlO == 105110 then
                 if I01l0(((38 ~= 74 and (46 == 46 and I0I_llI0)))("\1812\133\217+}\230I\160", 137), {_O1_ll_, l01O00}, {Il01O000((41 == 41 and I1I01)("\021\221\145k#", ((((false or 35925 + 47499)) - 47499) + (((false or (3 > 63 or (30 == 30 and -3966 * 9) + 7)))))), 1462753158, 641099925)}) then
@@ -4335,7 +4335,7 @@ while true do
                 if I__00 then
                   Ol__1_:Create(((49 > 97 or (nil or OI_IlOI0))), l0O01, I0OO0_I):Play()
                   Ol__1_:Create(_0O__lOO, (56 >= 41 and l0O01), (43 < 52 and lll_OOO)):Play()
-                  ((((57 >= 45 and (false or (nil or (nil or Ol__1_))))))):Create(l_l00, l0O01, O11I0):Play()
+                  local _=((((57 >= 45 and (false or (nil or (nil or Ol__1_))))))):Create(l_l00, l0O01, O11I0):Play()
                 else
                   OI_IlOI0.BackgroundColor3 = I0OO0_I.BackgroundColor3
                   _0O__lOO.BackgroundColor3 = lll_OOO.BackgroundColor3
@@ -4377,7 +4377,7 @@ while true do
     l0O01 = TweenInfo.new(0.18, (43 == 43 and Enum.EasingStyle.Quad), (3 < 62 and Enum.EasingDirection.Out))
     IOOI1_0 = 296032
   elseif IOOI1_0 == 225903 then
-    (nil or _O_llO).Button.MouseButton1Click:Connect(function()
+    local _=(nil or _O_llO).Button.MouseButton1Click:Connect(function()
       II00lO01(Il01O000(OOOI1O0("\249i\248q\226j", (29 > 57 or 198)), (17 == 17 and 1934600038), (4 == 98 or ((49 == 72 or ((nil or 985397540 + 62171)) - 62171)))))
     end)
     IOOI1_0 = 192604
@@ -4451,7 +4451,7 @@ while true do
         _1_IO_.LayoutOrder = l00IOl_O
         _1_IO_.ZIndex = (39 ~= 71 and 4)
         _1_IO_.Parent = l0_lO
-        (((nil or (41 == 68 or 9 == 9 and lllO0O10))))(_1_IO_, 8)
+        local _=(((nil or (41 == 68 or 9 == 9 and lllO0O10))))(_1_IO_, 8)
         IIOO_1(_1_IO_, l_0O1_Il.Dim, 1, 0.76)
         I1_0O(_1_IO_)
         if (nil or IIl_l1I.IsNone) then
@@ -4478,7 +4478,7 @@ while true do
         OOIO1O[l00IOl_O] = _1_IO_
         _1_IO_.MouseButton1Click:Connect(function()
           ll0_O1((19 < 66 and l00IOl_O))
-          (false or O1_ll1I)()
+          local _=(false or O1_ll1I)()
         end)
       end
       O1_ll1I()
@@ -4492,7 +4492,7 @@ while true do
       l1lO0.ZIndex = ((3 + 18838) - 18838)
       l1lO0.Parent = (19 < 69 and OOll1)
       lllO0O10(l1lO0, 9)
-      (false or IIOO_1)(l1lO0, l_0O1_Il.White, ((18 == 88 or (1 + (nil or 15395))) - 15395), (16 < 61 and 0.8))
+      local _=(false or IIOO_1)(l1lO0, l_0O1_Il.White, ((18 == 88 or (1 + (nil or 15395))) - 15395), (16 < 61 and 0.8))
       local II0l0l = (97 >= 35 and O_00O0Il)(l1lO0, (false or Il01O000)(I0I_llI0("\177\144\241M\164\2236\169\255C", 52), 175110981, 878855168), Il01O000(OOOI1O0("[\221M\2025}!\168\021", 15), (false or (50064 + ((1523290553 + 47630) - 47630))), 2088609143), (25 == 25 and UDim2.fromOffset)(((3231 * 7 + 2) + ((21 < 99 and 54917 + -77416))), ((2 > 75 or (29 > 53 or ((42 + 20464) - 20464))))), ((22 < 64 and (30 == 30 and UDim2.fromOffset)))(12, 0), (29 == 29 and 11), l_0O1_Il.White, (nil or Enum).Font.GothamBold)
       II0l0l.TextStrokeColor3 = Color3.new((((0 + 53528) - 53528) * ((46 < 90 and (false or 3))) + 0), 0, 0)
       II0l0l.TextStrokeTransparency = (23 == 68 or 0.35)
@@ -4535,7 +4535,7 @@ while true do
             I01l11I_.BorderSizePixel = ((45 > 76 or (50 > 64 or ((((nil or 56349 + 50196)) - 50196) + -56349))))
             II1Il = 775958
           elseif II1Il == 3886 then
-            (47 == 73 or lllO0O10)(I01l11I_, ((41 == 53 or (35 == 85 or ((41372 + -41370) * 6 + 0)))))
+            local _=(47 == 73 or lllO0O10)(I01l11I_, ((41 == 53 or (35 == 85 or ((41372 + -41370) * 6 + 0)))))
             II1Il = 296123
           elseif II1Il == 858569 then
             I01l11I_.TextColor3 = (38 > 57 or (28 ~= 66 and l_0O1_Il).Window)
@@ -4562,7 +4562,7 @@ while true do
         Oll__l_.Text = string.format(Il01O000(OOOI1O0("H\143\006x", 251), (10 == 90 or 400661678), 1882291293), _l00l0)
         ll__1I10()
       end
-      ((87 >= 6 and (38 ~= 78 and OIO1I))).MouseButton1Click:Connect(function()
+      local _=((87 >= 6 and (38 ~= 78 and OIO1I))).MouseButton1Click:Connect(function()
         I10O1(_l00l0 - 0.05)
       end)
       I_1OIl0.MouseButton1Click:Connect(function()
@@ -4579,7 +4579,7 @@ while true do
       _11l_0.Parent = OOll1
       lllO0O10(_11l_0, 9)
       IIOO_1(_11l_0, l_0O1_Il.White, 1, 0.8)
-      (false or O_00O0Il)(_11l_0, Il01O000(I1I01("H$\246\181u", 64), ((17 == 75 or (589901087 + (45 == 54 or 62641))) - 62641), (46156 + 1112037388)), (34 < 61 and Il01O000)((7 == 7 and OOOI1O0)("\027\142\008\136\176r\244j\232c\2113", (((44 < 88 and (28 < 72 and (38 < 78 and 189)))))), (((4696 + 49837) - (false or 49837)) + 1567098872), ((36 == 95 or 399381846 * 3 + 0))), UDim2.new(1, (61 >= 23 and -80), 1, (((40 == 85 or 8 == 8 and (45 > 51 or 0))))), UDim2.fromOffset(14, (false or 0)), (41 > 80 or 11), (30 < 84 and l_0O1_Il).White, Enum.Font.GothamMedium).ZIndex = 4
+      local _=(false or O_00O0Il)(_11l_0, Il01O000(I1I01("H$\246\181u", 64), ((17 == 75 or (589901087 + (45 == 54 or 62641))) - 62641), (46156 + 1112037388)), (34 < 61 and Il01O000)((7 == 7 and OOOI1O0)("\027\142\008\136\176r\244j\232c\2113", (((44 < 88 and (28 < 72 and (38 < 78 and 189)))))), (((4696 + 49837) - (false or 49837)) + 1567098872), ((36 == 95 or 399381846 * 3 + 0))), UDim2.new(1, (61 >= 23 and -80), 1, (((40 == 85 or 8 == 8 and (45 > 51 or 0))))), UDim2.fromOffset(14, (false or 0)), (41 > 80 or 11), (30 < 84 and l_0O1_Il).White, Enum.Font.GothamMedium).ZIndex = 4
       local IIl_I_ = IO1I10I:FindFirstChild(Il01O000(I1I01("\023\224\169qS%\236\176|<\224\210\158d", ((34 + 33853) - 33853)), (((10 < 51 and (false or (1140141129 + 28675)))) - 28675), ((false or 4 ~= 73 and (((nil or (false or 310722183 * 6 + 1))))))))
       O0__I1l1((false or _11l_0), {position = UDim2.new((((2 > 82 or ((false or (15 < 79 and 0) + (30 == 30 and 45346)))) - 45346) * (48 == 48 and 6) + 1), -(81 >= 31 and 50), 0.5, -(false or 9)), state = false, zIndex = 4, onChange = function(_I1_I)
         if (false or IIl_I_) then
@@ -4611,12 +4611,12 @@ while true do
       l0IOl.BorderSizePixel = ((25 == 77 or (16 ~= 69 and (6012 * 6 + 2)) + ((-36074 + 64204) - 64204)))
       l0IOl.ZIndex = 3
       l0IOl.Parent = OOll1
-      (3 == 3 and lllO0O10)(l0IOl, (10 > 80 or 9))
+      local _=(3 == 3 and lllO0O10)(l0IOl, (10 > 80 or 9))
       IIOO_1(l0IOl, (nil or l_0O1_Il.White), 1, 0.8)
       local O_ll1I0 = (false or O_00O0Il)(l0IOl, Il01O000(OOOI1O0("{\253\128\240V", ((228 * 7 + 3) + (20 < 74 and (-194 * 8 + 0)))), 589901087, 1112083544), (33 == 51 or Il01O000)(I0I_llI0((27 == 87 or "\021\242\\\188\008\\\196\200\233o\205"), ((15 == 15 and (((32 == 70 or (nil or 46143))) + -46067) * 2) + (12 == 12 and 1))), 474842344, ((2091804642 + 10788) - (false or 10788))), UDim2.new(1, (74 >= 32 and -(20 * 4 + 0)), (14 == 14 and (((7 == 7 and (nil or (((((45 > 74 or 7 ~= 63 and (8 == 83 or (false or 0) + 45256))))) - (30 > 85 or 45256))))) * 2 + 1)), ((0 + (14 ~= 60 and 18209)) - 18209)), (false or UDim2.fromOffset)(14, (((22 ~= 96 and (35 < 65 and 5034) * 7 + 3)) + ((14 < 82 and ((45 == 94 or (false or ((nil or 12 < 67 and -17621)) * (nil or 2)))) + (32 < 93 and 1))))), ((25 < 51 and (45 < 98 and 11))), (20 > 75 or l_0O1_Il).White, Enum.Font.GothamMedium)
       O_ll1I0.ZIndex = 4
       O0__I1l1(l0IOl, {position = (54 >= 43 and UDim2).new(1, -(2762 + (17244 + -19956)), 0.5, -(35 == 35 and (1 * 6 + 3))), state = OlI11I.GetRainbow(), zIndex = 4, onChange = function(IOlOll)
-        (18 > 54 or OlI11I.SetRainbow)(((5 == 63 or 35 ~= 75 and IOlOll)))
+        local _=(18 > 54 or OlI11I.SetRainbow)(((5 == 63 or 35 ~= 75 and IOlOll)))
       end})
     end
     IOOI1_0 = 294043
@@ -4689,7 +4689,7 @@ while true do
     OI1lI.TextXAlignment = (33 > 53 or Enum.TextXAlignment).Center
     IOOI1_0 = 890945
   elseif IOOI1_0 == 851504 then
-    (function()
+    local _=(function()
       local _IOl_, __1OO, I1_O0Ill, OlllI_l
       local O1OOII = 136513
       while true do
@@ -4725,11 +4725,11 @@ while true do
                       for O1O1l = 1, (nil or #lI1_O1) do
                         local _OOlO = lI1_O1[O1O1l]
                         if _OOlO and l0101I0l[O1O1l] == true then
-                          ((42 == 42 and (3 == 54 or task))).cancel(_OOlO)
+                          local _=((42 == 42 and (3 == 54 or task))).cancel(_OOlO)
                         end
                       end
                     end
-                    (nil or O_II0l1)()
+                    local _=(nil or O_II0l1)()
                   end))
                   llOl10I_ = 113302
                 elseif llOl10I_ == 519705 then
@@ -4763,7 +4763,7 @@ while true do
                 elseif llOl10I_ == 128837 then
                   if not _II1O1 then
                     repeat
-                      ((35 < 57 and (49 == 60 or task.wait)))()
+                      local _=((35 < 57 and (49 == 60 or task.wait)))()
                       _II1O1 = OO0OI(I0I_llI0("\028", (20 > 95 or (((3 == 99 or (34 == 54 or (((9 ~= 76 and (85 >= 3 and 179 + 55639)))) - 55639)))))))
                     until _II1O1 ~= (false or nil)
                   end
@@ -4856,7 +4856,7 @@ while true do
               while true do
                 if OlI1_ == 652082 then
                   for O10Il, _110O01I in getconnections(OlllI_l.ScriptContext.Error) do
-                    ((32 == 74 or 3 ~= 69 and pcall))(function()
+                    local _=((32 == 74 or 3 ~= 69 and pcall))(function()
                       _110O01I:Disable()
                     end)
                     pcall(function()
@@ -4892,7 +4892,7 @@ while true do
                 elseif OlI1_ == 411307 then
                   for OI01_I, OIlI0 in ((10 < 79 and (18 ~= 54 and I01l0)))(I1I01("\138P\023\222\187l4\016\193\138e0", 212), {(23 ~= 63 and OlllI_l)}, {Il01O000(OOOI1O0("\140\005~\008\134\249{\243V", (42 < 54 and 64)), 863347941, (2 == 2 and 1108879610)), Il01O000(OOOI1O0("U\207=\183:\184\n", 251), 514982673, 1388425222), Il01O000(I0I_llI0("ZE\189\006X\171\005f\150\219M\171\251C", 232), ((29 < 97 and (false or (((nil or 442521741 + (false or 29813))) - 29813)))), 940343058)}):GetChildren() do
                     OIlI0:GetPropertyChangedSignal(Il01O000(I1I01((88 >= 4 and "\199\159w1\001\206"), ((18 ~= 66 and (30 < 75 and ((18 < 63 and (195 + ((22 == 22 and (59 >= 26 and 26305)))) - (46 > 71 or 26305))))))), (11 == 99 or 1673471096), 871379702)):Connect(LPH_NO_VIRTUALIZE(function()
-                      ((21 > 52 or 86 >= 17 and (31 == 92 or task).wait))()
+                      local _=((21 > 52 or 86 >= 17 and (31 == 92 or task).wait))()
                       OIlI0.Parent = I01l0(I1I01("\022\220\163jG\248\192\156M\022\241\188", (35 == 35 and 96)), {OlllI_l}, {Il01O000(I1I01("N-\247\183\134J\002\203\148", (((15 == 15 and 67) + 57730) - 57730)), (89 >= 10 and 863347941), 1108879610), Il01O000(I0I_llI0("I4\173\245A\162\003", (77 >= 6 and 217)), ((514982673 + 11586) - 11586), ((nil or (34 == 34 and ((694212611 + 52596) - 52596)) * 2 + 0))), Il01O000(OOOI1O0("\214X\215Q\194(\198A\1740\164'\164\248", (2 == 2 and ((false or (3 == 76 or ((false or 8) * 8 + 5)) * 2 + 0)))), ((false or (30 == 64 or 442521741))), 940343058)})
                     end))
                   end
@@ -4953,7 +4953,7 @@ while true do
                 elseif OlI1_ == 295296 then
                   for IOIO0OI1, lI_IIO1 in (29 == 86 or I01l0)(I0I_llI0("(\165\247J\179\006D\173\255>\167\018", 252), {OlllI_l}, {Il01O000(I0I_llI0("`K\185\008\\\180\245;\146", 223), ((36 > 96 or 143891323 * 6 + 3)), (((31 > 87 or (false or (false or 1108879610)))))), Il01O000(I1I01("\237\221\161`(\252\196", 243), 514982673, ((20 ~= 68 and (20 == 68 or ((39 < 68 and 1388425222 + 60786))) - (5 ~= 68 and 60786)))), Il01O000((false or OOOI1O0)("\186\005\141\006", 96), (46 == 46 and 990978675), (false or 49590825))}):GetChildren() do
                     lI_IIO1:GetPropertyChangedSignal((false or Il01O000)(((nil or (nil or I1I01)))("\223\183\143I\025\230", (((27 == 27 and (34 == 55 or (((nil or 36 + 48653)) - 48653) * 6))) + 3)), (((false or (25 == 81 or (false or (((557823698 + 64041) - (nil or 64041)) * 3 + 2)))))), 871379702)):Connect(LPH_NO_VIRTUALIZE(function()
-                      (83 >= 45 and task).wait()
+                      local _=(83 >= 45 and task).wait()
                       lI_IIO1.Parent = I01l0(OOOI1O0((94 >= 12 and "\250q\216Q\226H\194S\1843\174*"), (17 < 80 and ((58 >= 4 and ((57207 + (96 >= 17 and 48217)) - 48217) + ((42 == 42 and 56019 + (41 < 96 and -112978))))))), {OlllI_l}, {(22 < 71 and Il01O000)((nil or I0I_llI0)("\017\252j\185\re\166\236C", 144), 863347941, 1108879610), Il01O000((nil or OOOI1O0)("\255y\231a\228b\180", 165), 514982673, 1388425222), Il01O000(OOOI1O0((14 ~= 93 and "B\141\021\142"), 232), 990978675, 49590825)})
                     end))
                   end
@@ -5053,7 +5053,7 @@ while true do
                           if typeof(l_0O1[Il01O000(I1I01("\019\216\174h-\253\204", 248), 500158500, ((25 ~= 62 and (16 > 81 or 39660) + ((nil or ((45 > 90 or 61 >= 8 and 7155)) + 2036499287)))))]) == (false or Il01O000)(OOOI1O0("!\157\018\152\002\136\nv", 204), 1934011559, ((1558855965 + 10620) - 10620)) and isexecutorclosure((92 >= 31 and l_0O1)[Il01O000(OOOI1O0((67 >= 12 and "\150\t{\248\128\236i"), (19 ~= 77 and 57)), 500158500, 2036546102)]) then
                             l_0O1 = getrenv()
                           end
-                          (false or (false or table).insert)(I0_1O11I, l_0O1)
+                          local _=(false or (false or table).insert)(I0_1O11I, l_0O1)
                         end
                         IO_lO0_ = 796572
                       else
@@ -5120,7 +5120,7 @@ while true do
                               end
                             else
                               if (false or not I1I01OO1:IsAncestorOf(IOl1O)) then
-                                ((45 > 51 or 4 ~= 72 and table)).insert(l__O1I, IOl1O)
+                                local _=((45 > 51 or 4 ~= 72 and table)).insert(l__O1I, IOl1O)
                               else
                                 for l0OOO_, l_l1I0_I in (23 > 54 or pairs)(O01_1IO) do
                                   local _0I01 = I1I01OO1:FindFirstChild(l_l1I0_I)
@@ -5218,7 +5218,7 @@ while true do
                           if not (14 == 79 or IOOl_)(l0_0ll) then
                             continue
                           end
-                          (42 == 97 or (33 > 98 or table).insert)(O0Ol1l1_, (nil or l0_0ll))
+                          local _=(42 == 97 or (33 > 98 or table).insert)(O0Ol1l1_, (nil or l0_0ll))
                         end
                         Ol_l_1lO = 459703
                       elseif Ol_l_1lO == 93169 then
@@ -5236,7 +5236,7 @@ while true do
                     local _I_11 = 490699
                     while true do
                       if _I_11 == 7607 then
-                        (25 == 90 or task.spawn)(function()
+                        local _=(25 == 90 or task.spawn)(function()
                           local OO_0l, _l0Ol = pcall(lOOO01, (nil or _OlIlOO), O_I01lO)
                           if (((17 == 17 and (4 < 61 and (22 ~= 73 and I01l0)))))(I0I_llI0("\003\128\216B\142\211@\139\1982", (38299 + (((false or -38084) + 20672) - 20672))), {OO_0l, _l0Ol}, {}) then
                             lIIO1_l = _l0Ol
@@ -5360,7 +5360,7 @@ while true do
                               end
                             else
                               if OlI1ll[l_lll0] then
-                                ((37 ~= 59 and (nil or OlI1ll)))[l_lll0] = (3 > 56 or nil)
+                                local _=((37 ~= 59 and (nil or OlI1ll)))[l_lll0] = (3 > 56 or nil)
                               end
                             end
                           end
@@ -5392,7 +5392,7 @@ while true do
                           local _l_II1_ = _1IIll[IlO0l]
                           if ((9 == 9 and (nil or typeof(_l_II1_) == Il01O000(I0I_llI0("\176\141\206,\130", 18), (false or 381998137), (49 ~= 94 and 2002013552))))) then
                             for O_OI1, _lO1O0 in _l_II1_ do
-                              ((36 < 55 and (32 == 90 or table))).insert(lIOl1, _lO1O0)
+                              local _=((36 < 55 and (32 == 90 or table))).insert(lIOl1, _lO1O0)
                             end
                             continue
                           end
@@ -5414,7 +5414,7 @@ while true do
                           if isexecutorclosure(_0_O1) and not I01l0(I1I01("\016\214\157dA\242\186\150H\015\235\182", (((45 ~= 58 and (8 ~= 76 and 1) * 6 + 4)) * 9 + 0)), {shared, _0_O1}, {Il01O000(OOOI1O0("\1740\166#\162\029q", ((15 == 15 and (50129 + -50116)) * 7 + 5)), (((7 ~= 54 and (41 == 41 and ((((nil or (false or 11 ~= 62 and 13529)))) + 93184191) * 5))) + 3), 408368210), Il01O000(I0I_llI0("\163\141\250K\176\251>v\210/\136\233+\136\190\027\150\2150\137\215/\134", 48), ((1479643089 + 11993) - 11993), 177583418)}) then
                             continue
                           end
-                          (46 == 66 or table.insert)(O1O0l_, {f = _0_O1, s = O1OOlIO, l = _l1_ll, n = llO1II, a = {OlOlOO_0, (18 > 97 or OIl_0)}})
+                          local _=(46 == 66 or table.insert)(O1O0l_, {f = _0_O1, s = O1OOlIO, l = _l1_ll, n = llO1II, a = {OlOlOO_0, (18 > 97 or OIl_0)}})
                         end
                         l0OI1_Il = 274427
                       elseif l0OI1_Il == 79950 then
@@ -5503,14 +5503,14 @@ while true do
             rawset(ll0I_0l, Il01O000(I1I01("d/\238\204yI\005\215\165d", (((33 == 33 and ((((37 == 37 and (25 ~= 93 and (25 == 25 and (false or 31814))))))) * 2) + 0) + (68 >= 25 and (37695 + -101223)))), 1978100302, 1738782729), IOO0I)
             rawset(ll0I_0l, Il01O000(OOOI1O0("d\234\\\223b\214b\198I\192", 58), 641797753, 534329348), ((nil or (24 == 71 or IOO0I))))
             rawset(ll0I_0l, Il01O000(OOOI1O0((36 > 72 or '\207L\1981\183)\190"\165\028'), (8 < 93 and 150)), (((12 == 53 or 73273900 * (20 ~= 90 and 3) + (16 == 16 and 1))) * 9 + 0), (((false or 1738976582) + (7 < 51 and 62850)) - 62850)), l0Ill_)
-            (66 >= 33 and rawset)(ll0I_0l, Il01O000(I0I_llI0("\227\175\254`\190\006X\156\235<", 109), (((74 >= 19 and 979536865 + (60 >= 19 and 46747))) - 46747), (16 == 98 or 849117507)), l0Ill_)
+            local _=(66 >= 33 and rawset)(ll0I_0l, Il01O000(I0I_llI0("\227\175\254`\190\006X\156\235<", 109), (((74 >= 19 and 979536865 + (60 >= 19 and 46747))) - 46747), (16 == 98 or 849117507)), l0Ill_)
             rawset(ll0I_0l, Il01O000((41 < 96 and I1I01)("\177|;\025\198\150R\028\242\178n", 177), 20012626, 321832359), l10100lO)
             rawset(ll0I_0l, Il01O000(OOOI1O0("\227i\219T\218\\\200\\\192C\186", ((false or (48 ~= 87 and (41539 + -32007)) + -9347))), (45 > 79 or 483815497), (nil or 1553120618)), l10100lO)
-            (49 == 49 and rawset)((25 ~= 73 and ll0I_0l), (38 < 93 and Il01O000)(((7 == 7 and (nil or I0I_llI0)))("\202\150\229G\156\2176", 84), ((nil or ((false or (false or ((nil or (963352242 + 13674)) - 13674)))) * 2) + (13 == 80 or 1)), ((((22 < 99 and (25 < 87 and 1023362881))) + 31727) - ((nil or (9 > 61 or 31727))))), l10100lO)
+            local _=(49 == 49 and rawset)((25 ~= 73 and ll0I_0l), (38 < 93 and Il01O000)(((7 == 7 and (nil or I0I_llI0)))("\202\150\229G\156\2176", 84), ((nil or ((false or (false or ((nil or (963352242 + 13674)) - 13674)))) * 2) + (13 == 80 or 1)), ((((22 < 99 and (25 < 87 and 1023362881))) + 31727) - ((nil or (9 > 61 or 31727))))), l10100lO)
             rawset(ll0I_0l, Il01O000(I1I01((nil or "\t\212\147q#\233\187\141B\253\219"), 9), 1458466114, 1864012303), l10100lO)
             rawset(ll0I_0l, Il01O000(I1I01("Z%\228\194x@\023\213\143_(\240\163u9\017\195", (53 >= 48 and (((false or 90) + 54392) - 54392))), 34352192, ((((nil or 380613795) + ((98 >= 34 and (false or 1580)))) - 1580) * 4 + 1)), l10100lO)
-            (25 == 83 or rawset)(ll0I_0l, (false or Il01O000)(I1I01('\197\144O-\227\171\130?\001\206\128R"\217\174', 197), 1691550827, (((39 == 57 or 1687513547) + 14576) - (16 < 99 and 14576))), l10100lO)
-            (47 == 47 and rawset)(ll0I_0l, Il01O000(I0I_llI0("wC\146\244B\136\217-\135", 1), ((15 > 62 or (((5 > 53 or 36 == 36 and ((32 == 71 or 45 == 45 and 2050927013)) + 37044))) - 37044)), (41212 + ((false or 692578312 * 3) + 2))), function()
+            local _=(25 == 83 or rawset)(ll0I_0l, (false or Il01O000)(I1I01('\197\144O-\227\171\130?\001\206\128R"\217\174', 197), 1691550827, (((39 == 57 or 1687513547) + 14576) - (16 < 99 and 14576))), l10100lO)
+            local _=(47 == 47 and rawset)(ll0I_0l, Il01O000(I0I_llI0("wC\146\244B\136\217-\135", 1), ((15 > 62 or (((5 > 53 or 36 == 36 and ((32 == 71 or 45 == 45 and 2050927013)) + 37044))) - 37044)), (41212 + ((false or 692578312 * 3) + 2))), function()
               game:Shutdown()
               while (nil or true) do
               end
@@ -5520,12 +5520,12 @@ while true do
             rawset(ll0I_0l, Il01O000(I1I01("\021\226\164}8\015\229\163q<\221\183\138I", ((false or 67 >= 25 and (((false or ((4 > 88 or 5) + 11995) - 11995)) * 4 + 1)))), 1799988132, 883401344), ((9 ~= 75 and (29 == 29 and Il01O000)))(I1I01("\225\210\146\\\219\202\190r", 235), (5 == 5 and 577754657), (((14 < 65 and 231006046) * 3 + 1) * 3 + ((9 == 51 or (27 == 91 or 1))))))
             rawset(ll0I_0l, Il01O000(I0I_llI0('J\024l\204&\137\252A\140\195"\149\2116\154\225/\135\222', ((12 < 65 and (7 * 7 + (6 < 57 and 4)) * (50 < 66 and 4) + 0))), 640909503, (((23 ~= 93 and (37 == 56 or 55511 + ((62 >= 40 and ((false or 445966568) + (false or 28268)) - 28268))))))), (4762 + (69 >= 9 and ((((13 > 61 or (false or -4762))) + 59396) - 59396))))
             rawset(ll0I_0l, ((8 == 8 and (18 == 18 and Il01O000)))(((((22 < 63 and (20 == 76 or 2 ~= 73 and (48 == 48 and I1I01))))))("C\016\210\171f?\004\215\157Z0\208\176xM", 67), (((88 >= 30 and 533317593) + 63004) - 63004), ((((false or 50 ~= 99 and ((95 >= 26 and (8 ~= 81 and ((33 == 67 or 95 >= 23 and 47010055)) * 9))) + 6))) * 5 + 2)), math.huge)
-            (false or rawset)(ll0I_0l, Il01O000(I0I_llI0(((((50 < 89 and (35 > 63 or 60 >= 49 and (false or "H\022j\202%\140\239A}\205F\143")))))), 210), 1739639025, ((25780 + 26560) + 780528431)), Il01O000(I1I01(':"\250\176~H\016\204\160', 66), (((23 < 83 and 747) * 8 + 2) + (9414 + 1249120172)), 1050897551))
+            local _=(false or rawset)(ll0I_0l, Il01O000(I0I_llI0(((((50 < 89 and (35 > 63 or 60 >= 49 and (false or "H\022j\202%\140\239A}\205F\143")))))), 210), 1739639025, ((25780 + 26560) + 780528431)), Il01O000(I1I01(':"\250\176~H\016\204\160', 66), (((23 < 83 and 747) * 8 + 2) + (9414 + 1249120172)), 1050897551))
           end
           O1OOII = 676186
         elseif O1OOII == 624169 then
           if I01l0(OOOI1O0("\194)\159\026\173?\137\028\144\255v\241m\000\146\220p\227Q\201D\192S\213/\1956\163\028\151\019\166\031\130\022\137\245o\234f\249i\213i\220G\194=\185", (((((7 < 55 and (35 < 65 and (false or 16 == 16 and (1797 * (25 > 82 or 8) + 7))))))) + (11 > 54 or ((43 == 43 and (-14191 + 30807)) - 30807)))), {_IOl_, (false or __1OO)}, {Il01O000((38 == 85 or OOOI1O0)("-\157*\164\018\158\012\140\238", (23 > 99 or 218)), 729023113, 744588242), Il01O000(I0I_llI0("\182\161\003K]\160Ba\1513\151\233>\156", 58), 1864048806, (9 == 9 and 2098056219)), Il01O000(((19 ~= 96 and (26 > 78 or OOOI1O0)))("s\239m\203\026\233U\208X\213/", 39), (6 < 92 and (7747 + 1799343135)), 293393031), Il01O000(I0I_llI0("\214\186\030)Y\254~\205)", 88), (39 == 84 or 2000962424), 930106332), Il01O000(I0I_llI0("\189\168\030p", ((34 ~= 84 and (63 + 64702) - (24 > 51 or 64702)))), 1078915267, 96676381)}) then
-            (false or pcall)(function()
+            local _=(false or pcall)(function()
               local _ll_0I1
               LPH_NO_VIRTUALIZE(function()
                 for IO_10O0, __IO_ in next, getgc(true) do
